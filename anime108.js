@@ -73,9 +73,13 @@ async function getList(url) {
 
     if (image && image.startsWith("data:image")) image = null;
 
-    if (title && link && link.includes(BASE)) {
-      list.push({ title, link, image });
-    }
+    if (title && link) {
+  const fixedLink = link.startsWith("http")
+    ? link
+    : BASE + link;
+
+  list.push({ title, link: fixedLink, image });
+}
   });
 
   return [...new Map(list.map(i => [i.link, i])).values()];
@@ -94,9 +98,11 @@ async function getEpisodes(url) {
 
     if (value && name.includes("ตอน")) {
       episodes.push({
-        name,
-        link: BASE + value,
-      });
+  name,
+  link: value.startsWith("http")
+    ? value
+    : BASE + value,
+});
     }
   });
 
