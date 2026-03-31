@@ -174,7 +174,10 @@ let count = results.length;
 
     let page = 1;
 
-    while (true) {
+    let noUpdatePage = 0;
+
+while (page <= 2) {
+  
       const url =
         page === 1
           ? `${BASE}${category}`
@@ -189,6 +192,7 @@ let count = results.length;
         break;
       }
 
+   let hasUpdateInPage = false;
       for (const anime of list) {
 
 let oldAnime = results.find(a => a.link === anime.link);
@@ -214,11 +218,23 @@ if (oldAnime) {
     const players = await getPlayers(meta, epNumMatch[1]);
     if (!players.length) continue;
 
-    oldAnime.episodes.push({
-      name: ep.name,
-      link: ep.link,
-      players,
-    });
+    oldAnime.episodes.unshift({
+  name: ep.name,
+  link: ep.link,
+  players,
+});
+
+// 🔥 ดันเรื่องขึ้นบน
+if (!oldAnime._moved) {
+  const index = results.findIndex(x => x.link === oldAnime.link);
+  if (index > 0) {
+    results.splice(index, 1);
+    results.unshift(oldAnime);
+  }
+  oldAnime._moved = true;
+}
+
+hasUpdateInPage = true;
 
     await sleep(CONFIG.delay);
   }
@@ -259,12 +275,12 @@ oldAnime.hasDub = oldAnime.episodes.some(ep =>
           ep.players.some(p => p.lang === "dub")
         );
 
-        results.push({
+       results.unshift({
           ...anime,
           hasDub,
           episodes,
         });
-
+hasUpdateInPage = true;
         count++;
 
         // 🔥 commit ทุก 10 เรื่อง
@@ -287,7 +303,17 @@ if (count % 10 === 0) {
           console.log(`💾 Saved ${fileName} (${count})`);
         }
       }
+if (!hasUpdateInPage) {
+  noUpdatePage++;
+  console.log(`❌ ไม่มีอะไรใหม่ (${noUpdatePage}/2)`);
 
+  if (noUpdatePage >= 2) {
+    console.log("🛑 หยุดหมวด (ไม่มีอะไรใหม่)");
+    break;
+  }
+} else {
+  noUpdatePage = 0;
+}
       page++;
     }
 
