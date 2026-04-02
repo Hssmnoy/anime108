@@ -173,10 +173,10 @@ let results = loadOld(fileName);
 let count = results.length;
 
     let page = 1;
-
     let noUpdatePage = 0;
-
-while (page <= 2) {
+    const updatedSet = new Set();
+    
+while (page <= 3) {
   
       const url =
         page === 1
@@ -223,16 +223,7 @@ if (oldAnime) {
   link: ep.link,
   players,
 });
-
-// 🔥 ดันเรื่องขึ้นบน
-if (!oldAnime._moved) {
-  const index = results.findIndex(x => x.link === oldAnime.link);
-  if (index > 0) {
-    results.splice(index, 1);
-    results.unshift(oldAnime);
-  }
-  oldAnime._moved = true;
-}
+updatedSet.add(oldAnime.link);
 
 hasUpdateInPage = true;
 
@@ -275,11 +266,14 @@ oldAnime.hasDub = oldAnime.episodes.some(ep =>
           ep.players.some(p => p.lang === "dub")
         );
 
-       results.unshift({
-          ...anime,
-          hasDub,
-          episodes,
-        });
+       const newAnime = {
+  ...anime,
+  hasDub,
+  episodes,
+};
+
+results.unshift(newAnime);
+updatedSet.add(newAnime.link);
 hasUpdateInPage = true;
         count++;
 
@@ -314,6 +308,14 @@ if (!hasUpdateInPage) {
 } else {
   noUpdatePage = 0;
 }
+  results.sort((a, b) => {
+  const aUpdated = updatedSet.has(a.link);
+  const bUpdated = updatedSet.has(b.link);
+
+  if (aUpdated && !bUpdated) return -1;
+  if (!aUpdated && bUpdated) return 1;
+  return 0;
+});
       page++;
     }
 
