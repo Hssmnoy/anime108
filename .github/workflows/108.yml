@@ -40,13 +40,17 @@ jobs:
           git add .
           git commit -m "update data" || echo "no changes"
 
-            # 🔥 ดึงล่าสุด + rebase (กันชน)
-          git pull --rebase origin main || echo "pull fail"
+          # 🔥 เคลียร์ rebase ค้างก่อน
+          git rebase --abort || true
+          rm -rf .git/rebase-merge || true
 
-            # 🔁 retry push กันพลาด
+          # 🔄 sync ล่าสุดแบบไม่พัง
+          git fetch origin main
+          git reset --hard origin/main
+
+          # 🔁 retry push
           for i in 1 2 3; do
             git push origin HEAD:main && break
             echo "retry push $i..."
             sleep 3
-            git pull --rebase origin main
           done
