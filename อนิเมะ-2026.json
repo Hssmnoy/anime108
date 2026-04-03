@@ -1,5 +1,61 @@
 [
   {
+    "title": "Reincarnation no Kaben มหาศึกวีรชนข้ามภพ",
+    "link": "https://www.anime108.com/reincarnation-no-kaben/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Reincarnation-no-Kaben-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/reincarnation-no-kaben-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d6578a62757bf2315af3c27a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dorohedoro Season 2 สาปพันธ์ุอสูร ภาค 2",
+    "link": "https://www.anime108.com/dorohedoro-season-2/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/dorohedoro-season-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=03669040aefa4f3a3866e08c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/dorohedoro-season-2-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=64c4a75902596b2e24c055c6"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/dorohedoro-season-2-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=202bd6730d22407cad568316"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Dao Yao Xing (Aliens Among Immortals) จอมโจรปีศาจ",
     "link": "https://www.anime108.com/dao-yao-xing/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
@@ -400,24 +456,6 @@
           {
             "lang": "sub",
             "url": "https://main.108player.com/index_th.php?id=6521f41e4a0403841b1ad483"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Dorohedoro Season 2 สาปพันธ์ุอสูร ภาค 2",
-    "link": "https://www.anime108.com/dorohedoro-season-2/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/dorohedoro-season-2-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=202bd6730d22407cad568316"
           }
         ]
       }
