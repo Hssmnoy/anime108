@@ -1,5 +1,27 @@
 [
   {
+    "title": "Song of the Sea เสียงเพลงแห่งท้องทะเล",
+    "link": "https://www.anime108.com/song-of-the-sea/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Song-of-the-Sea-187x269.jpg",
+    "hasDub": true,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/song-of-the-sea-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=10a10a65d78a46cb997bc0bc"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=0cb57eab6a95350926dfd421"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Resident Evil Vendetta ผีชีวะ ล้างบางเชื้อคลั่ง 2017",
     "link": "https://www.anime108.com/resident-evil-vendetta/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/03/Resident-Evil-Vendetta-187x269.jpg",
