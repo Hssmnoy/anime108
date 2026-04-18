@@ -1,5 +1,99 @@
 [
   {
+    "title": "Kamiina Botan โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง",
+    "link": "https://www.anime108.com/kamiina-botan/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kamiina-Botan-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/kamiina-botan-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8526b568c670ac18e357c365"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kamiina-botan-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a85efadd8b84bc65c0402a6a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kami no Shizuku สืบมรดกข้ามชาติ หยาดเทวะ",
+    "link": "https://www.anime108.com/kami-no-shizuku/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kami-no-Shizuku-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/kami-no-shizuku-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1c6fb09f503039b692da5cf0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kami-no-shizuku-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1f0eeb0b8410b544740f034b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Snowball Earth สโนว์บอลเอิร์ธ",
+    "link": "https://www.anime108.com/snowball-earth/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Snowball-Earth-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/snowball-earth-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=93c54ebab7a6f9b4344f9d8c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/snowball-earth-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=07be4415b47ae7d18a8486e1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/snowball-earth-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=72a84465fe81f842d5c5a436"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Reincarnation no Kaben มหาศึกวีรชนข้ามภพ",
     "link": "https://www.anime108.com/reincarnation-no-kaben/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Reincarnation-no-Kaben-187x269.jpg",
@@ -2822,34 +2916,6 @@
           {
             "lang": "sub",
             "url": "https://main.108player.com/index_th.php?id=cc8bff9bf96af344b62ccaf1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Snowball Earth สโนว์บอลเอิร์ธ",
-    "link": "https://www.anime108.com/snowball-earth/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Snowball-Earth-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/snowball-earth-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=07be4415b47ae7d18a8486e1"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/snowball-earth-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=72a84465fe81f842d5c5a436"
           }
         ]
       }
