@@ -1,93 +1,281 @@
 [
   {
-    "title": "Kamiina Botan โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง",
-    "link": "https://www.anime108.com/kamiina-botan/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kamiina-Botan-187x269.jpg",
+    "title": "Stranger Things Tales From 85",
+    "link": "https://www.anime108.com/stranger-things-tales-from-85/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Stranger-Things-Tales-From-85-187x269.jpg",
     "hasDub": false,
     "episodes": [
       {
         "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/kamiina-botan-ep-1/",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-1/",
         "players": [
           {
             "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=8526b568c670ac18e357c365"
+            "url": "https://main.108player.com/index_th.php?id=832642c872cf7d555f7eac8e"
           }
         ]
       },
       {
         "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/kamiina-botan-ep-2/",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-2/",
         "players": [
           {
             "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a85efadd8b84bc65c0402a6a"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Kami no Shizuku สืบมรดกข้ามชาติ หยาดเทวะ",
-    "link": "https://www.anime108.com/kami-no-shizuku/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kami-no-Shizuku-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/kami-no-shizuku-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=1c6fb09f503039b692da5cf0"
+            "url": "https://main.108player.com/index_th.php?id=6a312ae240e3da307b6d1009"
           }
         ]
       },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/kami-no-shizuku-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=1f0eeb0b8410b544740f034b"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Snowball Earth สโนว์บอลเอิร์ธ",
-    "link": "https://www.anime108.com/snowball-earth/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Snowball-Earth-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
       {
         "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/snowball-earth-ep-3/",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-3/",
         "players": [
           {
             "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=93c54ebab7a6f9b4344f9d8c"
+            "url": "https://main.108player.com/index_th.php?id=d8eb20972a100a7e100efeb5"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=806c9aca278c19c1c6825dfe"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e03a8faf5a3a66d51184c28e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=31487153ffb69d416e9598f7"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6d1af16cb8f56768788a2f7f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f40eccad70f4e32064172b53"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=82d0d61f5a8cc739b966a693"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/stranger-things-tales-from-85-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b9edbe2ef71dc4d9baacdb30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jiang Ye (Ever Night) สยบฟ้าพิชิตปฐพี",
+    "link": "https://www.anime108.com/jiang-ye/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jiang-Ye-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/jiang-ye-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2bfd2420c0a40bcc270e7489"
           }
         ]
       },
       {
         "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/snowball-earth-ep-2/",
+        "link": "https://www.anime108.com/jiang-ye-ep-2/",
         "players": [
           {
             "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=07be4415b47ae7d18a8486e1"
+            "url": "https://main.108player.com/index_th.php?id=7b46cef8fdc16d30a6c69adc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Star Wars Maul Shadow Lord",
+    "link": "https://www.anime108.com/star-wars-maul-shadow-lord/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Star-Wars-Maul-Shadow-Lord-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2dc67c169c27318265ebe01f"
           }
         ]
       },
       {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/snowball-earth-ep-1/",
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-2/",
         "players": [
           {
             "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=72a84465fe81f842d5c5a436"
+            "url": "https://main.108player.com/index_th.php?id=21e960f7e6cc1b272171471c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1c5fdfefd1522688eb64e007"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=195e41fe6e2b23e22a0c0890"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=eca1eae82b354bc0a5aa7874"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/star-wars-maul-shadow-lord-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6e1bc0e74bd7af116fdf7483"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dandelion แดนดิไลออน ทีมยมทูตแสนกล",
+    "link": "https://www.anime108.com/dandelion/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dandelion-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/dandelion-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=82de5ec9e3e4e1433934a5d9"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/dandelion-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3746e1637f345cf693997da1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/dandelion-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4975d0c23d8fa784de6bd9e2"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/dandelion-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f127479dad1ca558d32a3bc9"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/dandelion-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5fdad3ee156f7b3c9866f44f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/dandelion-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=621e626e9336a7df6304487c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/dandelion-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=ae78baf419186a90b9ff7f98"
           }
         ]
       }
@@ -99,6 +287,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Reincarnation-no-Kaben-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/reincarnation-no-kaben-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fd4c02b9c00db30601beae3b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/reincarnation-no-kaben-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1c92b05c347557ba41b50db4"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/reincarnation-no-kaben-ep-3/",
@@ -138,6 +346,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/kujima-utaeba-ie-hororo-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5603fa6d181f916654b2fc09"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kujima-utaeba-ie-hororo-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fb5d073712cf81ef1bd0abd4"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/kujima-utaeba-ie-hororo-ep-2/",
         "players": [
@@ -166,6 +394,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/himekishi-wa-barbaroi-no-yome-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6f5714c677c8673c8586e503"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/himekishi-wa-barbaroi-no-yome-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f452b8053deebf4925aca01c"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/himekishi-wa-barbaroi-no-yome-ep-2/",
         "players": [
@@ -188,239 +436,31 @@
     ]
   },
   {
-    "title": "Mamonogurai no Boukensha นักผจญภัยผู้กินอสูร",
-    "link": "https://www.anime108.com/mamonogurai-no-boukensha/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Mamonogurai-no-Boukensha-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cc2533c4ac77ff6030640c26"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6db0fe9d7366325fa5fd971c"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=678e938ef61e684a07c6ab7c"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Haibara-kun no Tsuyokute Seishun New Game ฉบับวัยรุ่นของไฮบาระคุง",
-    "link": "https://www.anime108.com/haibara-tsuyokute-seishun/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Haibara-kun-no-Tsuyokute-Seishun-New-Game-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=459f16517733090bec9a7bdb"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=840add3b8c5e9ac5bf2da1d8"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=33b5c005784ac454b1bad530"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Mata Korosarete Shimatta no desu ne ตายอีกแล้วครับ คุณนักสืบ",
-    "link": "https://www.anime108.com/mata-korosarete-shimatta/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Mata-Korosarete-Shimatta-no-desu-ne-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=162e11838f0940d3ed37d89b"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=0d7d98af25b3c8321c682a82"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=797c1c3294167a4d861a693b"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ของคู่หมั้นของฉันที่เรียกตัวเองว่านางร้าย",
-    "link": "https://www.anime108.com/jishou-akuyaku-reijou/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jishou-Akuyaku-Reijou-na-Konyakusha-no-Kansatsu-Kiroku-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=2b3f0776c6e00516f17de840"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=f2b2549d41a88d5dbd356ce4"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6acd39689d7414616f3f0752"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Otonari no Tenshi-sama ni Itsunomanika 2 ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว ภาค 2",
-    "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otonari-no-Tenshi-sama-ni-Itsunomanika-2-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=e6445285f6f5de4961d02235"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=283bd93b7fdfa94c3b0c713d"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=b4efc853f7a1d2fa639ee0e0"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Tensei shitara Slime Datta Ken 4 เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 4",
-    "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Tensei-shitara-Slime-Datta-Ken-4th-Season-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a5b47de97db74cbf6171dfbb"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cfc8e81e712fd4ed0942d8bd"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=8259a0a49eada1f498599f61"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Dadao Duxing Die Long Bian มหามรรคาข้าเป็นหนึ่ง ภาค สลัดคราบสู่มังกร",
     "link": "https://www.anime108.com/dadao-duxing-die-long-bian/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dadao-Duxing-Die-Long-Bian-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/dadao-duxing-die-long-bian-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4166fd3039d38661c5005f91"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/dadao-duxing-die-long-bian-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d66e306351aba66a2a47bac2"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/dadao-duxing-die-long-bian-ep-3/",
@@ -454,49 +494,51 @@
     ]
   },
   {
-    "title": "Jidou Hanbaiki ni Umarekawatta 3 เกิดใหม่เป็นตู้หยอดเหรียญแล้วไปผจญภัยในดันเจี้ยน ภาค 3",
-    "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=272d76e27bb2bd233ea971c9"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=e56c356b37a187369226340f"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=af38260a2c9f1c18c05271bb"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Shishang Zui Qiang Lian Ti Lao Zu (The Supreme Body Refining Master) ปรมาจารย์การขัดเกลากายขั้นสูงสุด",
     "link": "https://www.anime108.com/shishang-zui-qiang/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/02/Shishang-Zui-Qiang-Lian-Ti-Lao-Zu-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 30",
+        "link": "https://www.anime108.com/shishang-zui-qiang-ep-30/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cc830b4c28a4376820e9d363"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 29",
+        "link": "https://www.anime108.com/shishang-zui-qiang-ep-29/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=699b061b719ab6ff6f149d7d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 28",
+        "link": "https://www.anime108.com/shishang-zui-qiang-ep-28/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1a246a91d58ada47c5f32dbe"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 27",
+        "link": "https://www.anime108.com/shishang-zui-qiang-ep-27/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=ab272dfba0af4be52dc2d551"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 26",
         "link": "https://www.anime108.com/shishang-zui-qiang-ep-26/",
@@ -766,6 +808,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/sou-shen-ji-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=403d490c6ac6aec80ace5fb0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/sou-shen-ji-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2aa119a0c9f8db4c8c03d015"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 6",
         "link": "https://www.anime108.com/sou-shen-ji-ep-6/",
         "players": [
@@ -834,6 +896,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/ganbare-nakamura-kun-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cccfb1c19aee8d781b0a24fd"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/ganbare-nakamura-kun-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=28a7f5009d96d052e3069a59"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 4",
         "link": "https://www.anime108.com/ganbare-nakamura-kun-ep-4/",
         "players": [
@@ -882,6 +964,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/otaku-ni-yasashii-gal-wa-ina-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c680742b52e1fea651a6aeaf"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/otaku-ni-yasashii-gal-wa-ina-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=7ad69f02dfaa6174c5f1a57d"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/otaku-ni-yasashii-gal-wa-ina-ep-2/",
         "players": [
@@ -909,6 +1011,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/the-beginning-after-the-end-2-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fbe71dc060793769e992efb8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/the-beginning-after-the-end-2-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e91b8f734fa611f207d89a5e"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/the-beginning-after-the-end-2-ep-3/",
@@ -942,89 +1064,31 @@
     ]
   },
   {
-    "title": "Invincible 4 ยอดมนุษย์อินวินซิเบิล ภาค 4",
-    "link": "https://www.anime108.com/invincible-4/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Invincible-4-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/invincible-4-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=077996ecc28fe9b65439b4ca"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/invincible-4-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=b69ba9df6ae23088a6411073"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/invincible-4-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=efe73831593cf96c561f825d"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/invincible-4-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=8e65bb51a44a4d8d99cf8bf0"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/invincible-4-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6352ec0e04affce42024643e"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/invincible-4-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=10f5527a7335320256da3775"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/invincible-4-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=b63b05e67a50db9813b1602c"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Marriagetoxin วิวาห์แต้มพิษ",
     "link": "https://www.anime108.com/marriagetoxin/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Marriagetoxin-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/marriagetoxin-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2bcc51a12ebfc538dd0b9539"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/marriagetoxin-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=05889a91ad43a9ab7580ad85"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/marriagetoxin-ep-2/",
@@ -1054,6 +1118,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/replica-datte-koi-wo-suru-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6ccde44538ce1a6d5f5645a2"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/replica-datte-koi-wo-suru-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9ab08b8ea89bf658e5ee4c6e"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/replica-datte-koi-wo-suru-ep-2/",
         "players": [
@@ -1081,6 +1165,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Class-de-2-banme-ni-Kawaii-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/class-de-2-banme-kawaii-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=821866333a9f84d186719854"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/class-de-2-banme-kawaii-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=44b82b0e9b3f8cdb090fea3a"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/class-de-2-banme-kawaii-ep-2/",
@@ -1110,6 +1214,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/rezero-isekai-seikatsu-4-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=24710e975ec3d563ffee7176"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/rezero-isekai-seikatsu-4-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4821f177ba42817d30d41f47"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/rezero-isekai-seikatsu-4-ep-2/",
         "players": [
@@ -1137,6 +1261,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/kanojo-okarishimasu-5-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fe650f02eb3601b6fae1e976"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kanojo-okarishimasu-5-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c1c36d77e3c9c333dd7fbc4b"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/kanojo-okarishimasu-5-ep-2/",
@@ -1166,6 +1310,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/megami-isekai-tensei-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4a7813fbbb1590c708f6d2e9"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/megami-isekai-tensei-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=663b6c1f5246bf696aba8377"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/megami-isekai-tensei-ep-2/",
         "players": [
@@ -1193,6 +1357,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/dorohedoro-season-2-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=28875ce3369aac236a8c02bd"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/dorohedoro-season-2-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a3231c6a1185724edd7c5e8f"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 5",
         "link": "https://www.anime108.com/dorohedoro-season-2-ep-5/",
@@ -1251,6 +1435,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/youkoso-jitsuryoku-4-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c860603e27fae2758de2f7ae"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/youkoso-jitsuryoku-4-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=bb4d08ebf30a6be417bd691c"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 6",
         "link": "https://www.anime108.com/youkoso-jitsuryoku-4-ep-6/",
@@ -1320,6 +1524,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/tongari-boushi-atelier-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=091ca78436352795cfdc9ec2"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/tongari-boushi-atelier-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=470bb60f13a89d88bff0cd1c"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/tongari-boushi-atelier-ep-3/",
         "players": [
@@ -1358,6 +1582,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/ponkotsu-fuuki-skirt-take-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6573e6c6bb43addf78e49b55"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/ponkotsu-fuuki-skirt-take-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1f342aacb78fd7dd43a62c01"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/ponkotsu-fuuki-skirt-take-ep-2/",
         "players": [
@@ -1385,6 +1629,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Isekai-Nonbiri-Nouka-2-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/isekai-nonbiri-nouka-2-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=66d074dde961f819089f2a58"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/isekai-nonbiri-nouka-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2345a159d75a1c32dae8ba0a"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/isekai-nonbiri-nouka-2-ep-2/",
@@ -1414,6 +1678,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/liar-game-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e11e10da70e1af05af03597f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/liar-game-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4a467e7ecae62e0c792852be"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/liar-game-ep-2/",
         "players": [
@@ -1442,6 +1726,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/higeki-no-genkyou-2-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=df7ecaf5459020195cf1b632"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/higeki-no-genkyou-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=aa43de909b4b26481534e7c5"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/higeki-no-genkyou-2-ep-2/",
         "players": [
@@ -1469,6 +1773,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/03/Xiuluo-Wushen-2-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 12",
+        "link": "https://www.anime108.com/xiuluo-wushen-2-ep-12/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8d1591c0e957c96b05e4fc87"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/xiuluo-wushen-2-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d84cd3567230ab3175e23a70"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 10",
         "link": "https://www.anime108.com/xiuluo-wushen-2-ep-10/",
@@ -1578,6 +1902,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/tsue-to-tsurugi-no-wistoria-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6ad926720828295156f9d981"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/tsue-to-tsurugi-no-wistoria-2-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d81b02e95831cddde01d6ef7"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 0",
         "link": "https://www.anime108.com/tsue-to-tsurugi-no-wistoria-2-ep-0/",
         "players": [
@@ -1606,6 +1950,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kuroneko-majo-kyoushitsu-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0d99a7aa088beffe367a93b3"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kuroneko-majo-kyoushitsu-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d032a2ced47bd955423d7cf7"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 1",
         "link": "https://www.anime108.com/kuroneko-majo-kyoushitsu-ep-1/",
         "players": [
@@ -1623,6 +1987,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Maid-san-wa-Taberu-dake-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/maid-san-wa-taberu-dake-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=51348d4f2f95d9103e0a9d66"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/maid-san-wa-taberu-dake-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=88fe0bc146d557e4969d2312"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 1",
         "link": "https://www.anime108.com/maid-san-wa-taberu-dake-ep-1/",
@@ -1656,29 +2040,31 @@
     ]
   },
   {
-    "title": "Kill Blue คิลบลู",
-    "link": "https://www.anime108.com/kill-blue/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kill-Blue-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/kill-blue-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=fe548464d24be77cbafb782b"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Ghost Concert Missing Songs โกสต์คอนเสิร์ต เพลงที่หายไป",
     "link": "https://www.anime108.com/ghost-concert-missing-songs/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ghost-Concert-Missing-Songs-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/ghost-concert-missing-songs-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5a96c22eb6934cb24dd0bdc6"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/ghost-concert-missing-songs-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=7798e1f94c72469bfc80739d"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/ghost-concert-missing-songs-ep-2/",
@@ -1707,6 +2093,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/03/Rooster-Fighter-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/rooster-fighter-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4887393ce58f83f32e0eb509"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/rooster-fighter-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a4280fbcca35239cf1aaa435"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 5",
         "link": "https://www.anime108.com/rooster-fighter-ep-5/",
@@ -1765,6 +2171,76 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/03/Xiuxian-Zhe-Dazhan-Chaonengli-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 37",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-37/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0a062d8aab8b952761a5770d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 36",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-36/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=92952df31e7e1a79317aa6f0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 35",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-35/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3487086e8024fdc3525a8b21"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 34",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-34/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c7efbe7026eff0d8a0ffa22f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 33",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-33/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1cc8f8c756a06c4d0cdec704"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 32",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-32/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a83ed8cec9a722f4cb624aad"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 31",
+        "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-31/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=bdaffaff5058af2cc19bba1e"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 30",
         "link": "https://www.anime108.com/xiuxian-zhe-dazhan-ep-30/",
@@ -2068,11 +2544,775 @@
     ]
   },
   {
+    "title": "Yu Ling Shi (B.King) นักคุมวิญญาณ",
+    "link": "https://www.anime108.com/yu-ling-shi/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Yu-Ling-Shi-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=ca35c940b1cdafc1f0da2864"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8dba3f54fa07d9228c07e9e6"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c6dae009dea93d518cc402a1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c35b9276c460b760c280f468"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cbf5bdb8664be42151f03661"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=99db2c726df322397f00dd79"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d66a3fff8cb79f793a61b612"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e107d57a836893b0eaa75539"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f31622097774cd8a90a3f69d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0616f5bf975acb6aebe912ad"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/yu-ling-shi-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cc8bff9bf96af344b62ccaf1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง",
+    "link": "https://www.anime108.com/nigashita-sakana-wa/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=16ab981a2b8815609874e257"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=ea9905200406f10133f95518"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8e5813158f7ecf98616f654d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4340631fc1a2a06bcb424b73"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=12886c39db7faa8084775c4c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nippon Sangoku สามชาติแห่งดวงอาทิตย์สีแดงฉาน",
+    "link": "https://www.anime108.com/nippon-sangoku/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nippon-Sangoku-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/nippon-sangoku-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b17713f44a8e2958b2080d8d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/nippon-sangoku-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=77a6a30c6bb29cde87366ac0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/nippon-sangoku-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=53ea348c79e396b7b518a0a3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kami no Shizuku สืบมรดกข้ามชาติ หยาดเทวะ",
+    "link": "https://www.anime108.com/kami-no-shizuku/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kami-no-Shizuku-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kami-no-shizuku-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=52a7202f780c08cfbffc5dba"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/kami-no-shizuku-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1c6fb09f503039b692da5cf0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kami-no-shizuku-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1f0eeb0b8410b544740f034b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Snowball Earth สโนว์บอลเอิร์ธ",
+    "link": "https://www.anime108.com/snowball-earth/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Snowball-Earth-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/snowball-earth-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f5ef27eb000321e2e0e16002"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/snowball-earth-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=93c54ebab7a6f9b4344f9d8c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/snowball-earth-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=07be4415b47ae7d18a8486e1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/snowball-earth-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=72a84465fe81f842d5c5a436"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mamonogurai no Boukensha นักผจญภัยผู้กินอสูร",
+    "link": "https://www.anime108.com/mamonogurai-no-boukensha/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Mamonogurai-no-Boukensha-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=38f9365d18577fb16b8a4a13"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cc2533c4ac77ff6030640c26"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6db0fe9d7366325fa5fd971c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/mamonogurai-no-boukensha-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=678e938ef61e684a07c6ab7c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Haibara-kun no Tsuyokute Seishun New Game ฉบับวัยรุ่นของไฮบาระคุง",
+    "link": "https://www.anime108.com/haibara-tsuyokute-seishun/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Haibara-kun-no-Tsuyokute-Seishun-New-Game-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a1c6a12d99ce7f4978064330"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=436d602bd0c1f2dec2cf43a4"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=459f16517733090bec9a7bdb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=840add3b8c5e9ac5bf2da1d8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/haibara-tsuyokute-seishun-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=33b5c005784ac454b1bad530"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mata Korosarete Shimatta no desu ne ตายอีกแล้วครับ คุณนักสืบ",
+    "link": "https://www.anime108.com/mata-korosarete-shimatta/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Mata-Korosarete-Shimatta-no-desu-ne-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9385bf48b5703dd13679297a"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a3003144438d46b26cbc8f5b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=162e11838f0940d3ed37d89b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0d7d98af25b3c8321c682a82"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/mata-korosarete-shimatta-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=797c1c3294167a4d861a693b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku ของคู่หมั้นของฉันที่เรียกตัวเองว่านางร้าย",
+    "link": "https://www.anime108.com/jishou-akuyaku-reijou/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jishou-Akuyaku-Reijou-na-Konyakusha-no-Kansatsu-Kiroku-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3ad863cd46d5f105772661f6"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c4ed33771b10c75f66ae3e81"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2b3f0776c6e00516f17de840"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f2b2549d41a88d5dbd356ce4"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/jishou-akuyaku-reijou-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6acd39689d7414616f3f0752"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika 2 ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว ภาค 2",
+    "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otonari-no-Tenshi-sama-ni-Itsunomanika-2-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3a595ab289b6d0bc58d0117a"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e6445285f6f5de4961d02235"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=283bd93b7fdfa94c3b0c713d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/otonari-tenshi-itsunomanika-2-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b4efc853f7a1d2fa639ee0e0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jidou Hanbaiki ni Umarekawatta 3 เกิดใหม่เป็นตู้หยอดเหรียญแล้วไปผจญภัยในดันเจี้ยน ภาค 3",
+    "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4a1be9ed8ce3b620c35154d5"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=272d76e27bb2bd233ea971c9"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e56c356b37a187369226340f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/jidou-hanbaiki-ni-umarekawatta-3-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=af38260a2c9f1c18c05271bb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Invincible 4 ยอดมนุษย์อินวินซิเบิล ภาค 4",
+    "link": "https://www.anime108.com/invincible-4/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Invincible-4-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/invincible-4-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e7ad305e020f10f11bcf58eb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/invincible-4-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=077996ecc28fe9b65439b4ca"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/invincible-4-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b69ba9df6ae23088a6411073"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/invincible-4-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=efe73831593cf96c561f825d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/invincible-4-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8e65bb51a44a4d8d99cf8bf0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/invincible-4-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6352ec0e04affce42024643e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/invincible-4-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=10f5527a7335320256da3775"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/invincible-4-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b63b05e67a50db9813b1602c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kill Blue คิลบลู",
+    "link": "https://www.anime108.com/kill-blue/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kill-Blue-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kill-blue-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=48421c165adac1959c273ebc"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kill-blue-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cb53a716345079ac9306d99c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/kill-blue-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fe548464d24be77cbafb782b"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Honzuki no Gekokujou 4th การปฏิวัติของสาวน้อยหนอนหนังสือ",
     "link": "https://www.anime108.com/honzuki-no-gekokujou-4/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Honzuki-no-Gekokujou-4th-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/honzuki-no-gekokujou-4-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=90dec26e231e47c4a1436b94"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/honzuki-no-gekokujou-4-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=70460a9265330131a4cfdb5a"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/honzuki-no-gekokujou-4-ep-2/",
@@ -2102,6 +3342,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/mairimashita-iruma-kun-4-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=afd58d1ed6fd8d57b43bd84d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/mairimashita-iruma-kun-4-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=7db1248258f6b4a8ab38913a"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/mairimashita-iruma-kun-4-ep-2/",
         "players": [
@@ -2129,6 +3389,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Akane-banashi-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/akane-banashi-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=140d3db686544b1a70c37444"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/akane-banashi-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=305e07ab04c9ef3daa3e2ced"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/akane-banashi-ep-2/",
@@ -2158,6 +3438,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/kami-niwatsuki-kusunoki-tei-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d8f02b61cf8c5c59379077ee"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kami-niwatsuki-kusunoki-tei-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=aa976371d4c7eb3ea9c8d8b7"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/kami-niwatsuki-kusunoki-tei-ep-2/",
         "players": [
@@ -2185,6 +3485,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanan-sama-wa-Akumade-Choroi-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/kanan-sama-akumade-choroi-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=205b9449a3a2edfbd5d7ed98"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/kanan-sama-akumade-choroi-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=971e5c296a538ed1c9ca4ac0"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/kanan-sama-akumade-choroi-ep-2/",
@@ -2214,6 +3534,16 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/mao-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=473ef56a7495bfe4634a4016"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/mao-ep-2/",
         "players": [
@@ -2239,8 +3569,36 @@
     "title": "Yomi no Tsugai ยมลแห่งยมโลก",
     "link": "https://www.anime108.com/yomi-no-tsugai/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Yomi-no-Tsugai-187x269.jpg",
-    "hasDub": false,
+    "hasDub": true,
     "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/yomi-no-tsugai-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8153cd255445da255dda4b24"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=03ccaee333e841eb051d4d3e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/yomi-no-tsugai-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9060256effc9d7dfd135c302"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=5a0f647067f84499a5c97e8f"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 2",
         "link": "https://www.anime108.com/yomi-no-tsugai-ep-2/",
@@ -2269,6 +3627,26 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Shunkashuutou-Daikousha-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/shunkashuutou-daikousha-haru-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=dfb0d11bd8606fdd9c8dd078"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/shunkashuutou-daikousha-haru-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cb707aaa1257638fb19885dc"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/shunkashuutou-daikousha-haru-ep-3/",
@@ -2308,6 +3686,26 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/saikyou-shokugyou-yuusha-demo-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d5388d9ed139fd1bc1b687c1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/saikyou-shokugyou-yuusha-demo-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=fdcd2c8eb30225a046755b5c"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 3",
         "link": "https://www.anime108.com/saikyou-shokugyou-yuusha-demo-ep-3/",
         "players": [
@@ -2345,6 +3743,16 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Shenkong-Bi-An-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 16",
+        "link": "https://www.anime108.com/shenkong-bi-an-ep-16/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d49748b1a6f73240114e6fe7"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 15",
         "link": "https://www.anime108.com/shenkong-bi-an-ep-15/",
@@ -2503,6 +3911,16 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Cheng-He-Titong-2-187x269.jpg",
     "hasDub": true,
     "episodes": [
+      {
+        "name": "ตอนที่ 15",
+        "link": "https://www.anime108.com/cheng-he-titong-2-ep-15/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f2f35c815a5d2687f9846b7c"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 14",
         "link": "https://www.anime108.com/cheng-he-titong-2-ep-14/",
@@ -2692,6 +4110,16 @@
     "hasDub": false,
     "episodes": [
       {
+        "name": "ตอนที่ 14",
+        "link": "https://www.anime108.com/ze-tian-ji-ep-14/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0836404beca1ce1213670784"
+          }
+        ]
+      },
+      {
         "name": "ตอนที่ 13",
         "link": "https://www.anime108.com/ze-tian-ji-ep-13/",
         "players": [
@@ -2824,287 +4252,31 @@
     ]
   },
   {
-    "title": "Yu Ling Shi (B.King) นักคุมวิญญาณ",
-    "link": "https://www.anime108.com/yu-ling-shi/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Yu-Ling-Shi-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 9",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-9/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=c6dae009dea93d518cc402a1"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 8",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-8/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=c35b9276c460b760c280f468"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cbf5bdb8664be42151f03661"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=99db2c726df322397f00dd79"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=d66a3fff8cb79f793a61b612"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=e107d57a836893b0eaa75539"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=f31622097774cd8a90a3f69d"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=0616f5bf975acb6aebe912ad"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/yu-ling-shi-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cc8bff9bf96af344b62ccaf1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Dao Yao Xing (Aliens Among Immortals) จอมโจรปีศาจ",
-    "link": "https://www.anime108.com/dao-yao-xing/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 17",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-17/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6be8374b357cee7ccee448c1"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 16",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-16/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=5c9c8a7870ee068104bfdded"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 15",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-15/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6642b8f08b964d9a6684d9c8"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 14",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-14/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=58bb3fc209d862cb3980f036"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=4eb3b6843fd839d841b5b7db"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=63fa0036b077718f268230d7"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=9aaf3e294a56089496642c73"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=1e46f4e7d13c8ef97e6e76e7"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=0e3bafaaee6bfdc4b7fe89c1"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cf61327890929e9740c1e49a"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6a9cdfee50180e9fb58f69a4"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 8",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-8/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=6758417e20a7e0f76b7f8a38"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 9",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-9/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a543c1292e1e40edef1b3dde"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 10",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-10/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=f183156e6693a648f2d54f39"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 11",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-11/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=31c390c530c49a28faed5542"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 12",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-12/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a90190145f6debfc5b15591f"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 13",
-        "link": "https://www.anime108.com/dao-yao-xing-ep-13/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=5287daf20fb1893a1212d0af"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Yi Ren Zhi Xia 6 (The Outcast 6) ภายใต้หนึ่งคน ภาค 6",
     "link": "https://www.anime108.com/yi-ren-zhi-xia-6/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Yi-Ren-Zhi-Xia-6-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 18",
+        "link": "https://www.anime108.com/yi-ren-zhi-xia-6-ep-18/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=65525728112fa21733037b52"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 17",
+        "link": "https://www.anime108.com/yi-ren-zhi-xia-6-ep-17/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d160903401f5bb3408002d2c"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 16",
         "link": "https://www.anime108.com/yi-ren-zhi-xia-6-ep-16/",
@@ -3273,6 +4445,46 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/02/Long-Po-Jiutian-187x269.jpg",
     "hasDub": false,
     "episodes": [
+      {
+        "name": "ตอนที่ 24",
+        "link": "https://www.anime108.com/long-po-jiutian-ep-24/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e91fec5c3c9351e44810c74e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 23",
+        "link": "https://www.anime108.com/long-po-jiutian-ep-23/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3b8774113c21d9403fa0802d"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 22",
+        "link": "https://www.anime108.com/long-po-jiutian-ep-22/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=036ec79ce9506edc2943b0b7"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 21",
+        "link": "https://www.anime108.com/long-po-jiutian-ep-21/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f2d5d50fc023818347588c3e"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 20",
         "link": "https://www.anime108.com/long-po-jiutian-ep-20/",
@@ -3481,6 +4693,34 @@
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Da-Zhu-Zai-2-187x269.jpg",
     "hasDub": true,
     "episodes": [
+      {
+        "name": "ตอนที่ 18",
+        "link": "https://www.anime108.com/da-zhu-zai-2-ep-18/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0b6a31c817f3fc0aac7f81f2"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=c0c9f6532af0e61f3638ae5f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 17",
+        "link": "https://www.anime108.com/da-zhu-zai-2-ep-17/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4509e12995b660195e5ccce5"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=dd7e278d442b09e65af6854f"
+          }
+        ]
+      },
       {
         "name": "ตอนที่ 16",
         "link": "https://www.anime108.com/da-zhu-zai-2-ep-16/",
@@ -3694,6 +4934,816 @@
     ]
   },
   {
+    "title": "Needy Girl Overdose นางฟ้าแห่งอินเทอร์เน็ต",
+    "link": "https://www.anime108.com/needy-girl-overdose/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Needy-Girl-Overdose-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/needy-girl-overdose-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5b9a311b76821c9e8bea2be1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/needy-girl-overdose-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6cf71d49414ea5815dc7e6b5"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/needy-girl-overdose-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a58312cdce54eef752f77734"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cang Yuan Tu 3 (The Demon Hunter 3) นักล่าอสูรกาย ภาค 3",
+    "link": "https://www.anime108.com/cang-yuan-tu-3/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Cang-Yuan-Tu-3-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=edb22b51089e7289826e3bef"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=de37156faba67130054392f0"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2a52ff118f9ca128f7617a04"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1381f1bebd3dacb0887c9c04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jingai Kyoushitsu No Ningengirai Kyoushi ครูหนุ่มผู้เกลียดชังมนุษย์ในห้องเรียนครึ่งมนุษย์",
+    "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Jingai-Kyoushitsu-no-Ningengirai-Kyoushi-187x269.jpg",
+    "hasDub": true,
+    "episodes": [
+      {
+        "name": "ตอนที่ 13",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-13/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3d9658da3ba048ee4e397d87"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=b4dba10962920b41d24051f9"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 12",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-12/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=764edb63056be34022b0194e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=77bf9764fb79745e4ac896ad"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=02cdefe0ed915d0bf349baab"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c446c4b916f59316fc126eec"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=90217df9a3dc82b085938836"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9da07074669bb762eb29ade4"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=f1b4534d7f58a6937689292b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cf9fa8b40f324eb822f7f753"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=ac070f187085ca2d3a3f2b52"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e26bc6b698d5403a3fe30713"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=29cc1ae8f90d271e749cdbdb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=af7023bd984be3287c2384f9"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=a859e468f6301a956947c804"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b8f5c60619182cc0c9ec9de5"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=965eaf16b9ea9dcff9b8f2e1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=45af3334b37c8ebbd06a9184"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=5f4c8b64869a36aa01ac87cb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4f3edf6fa6ce742c7d1ceeea"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=153143921067d2e9cd4f2ebc"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=341d856950bd2828b83d6c61"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fate Strange Fake สงครามจอกศักดิ์สิทธิ์ปลอม",
+    "link": "https://www.anime108.com/fate-strange-fake/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Fate-Strange-Fake-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 13",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-13/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b32e4ff5457b888c3fb11050"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 12",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-12/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d1d505c0211b350f076dfbbe"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 0",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-0/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5353659c6794bbb1dd051e1b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=52f5d7df17b07aa167920cf2"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=38e0352c4781f91ee0dc0722"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3720e234ff0d0d660681fa17"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=ce062705774eca9d389c0d47"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a0358b59955bd437db57208a"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=bfbf8f3f3546e1d2622e08c8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d5ce315b10c4e46304af29cb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=44879ade915e0186fa5c702c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4aff37621ef313bfd87ba4ea"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=c1cf6c7a22c82696cf682555"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/fate-strange-fake-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9b9e81703964caa07a36c10c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Yuusha No Kuzu ผู้กล้าสวะ",
+    "link": "https://www.anime108.com/yuusha-no-kuzu/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Yuusha-No-Kuzu-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 15",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-15/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=422d65510c7c365717c2ac1c"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 14",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-14/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e5854c9ee8305181d1d0bd47"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 13",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-13/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=508cd4bd941e6b41f80db99b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 12",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-12/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=31859c1d2702ee9b769fb57a"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=3c180f746d6d7e8990b58835"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=bf67842d280c36b5a81b77af"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a6223c3aeb51f229e891a20e"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f406186cea50e89b9c61ce09"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b99e237f849e45d83b6be29f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4a29735c352f5e452cc71dd5"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=2c02e38672a6ab78d10a46d8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=91551933d23ec419a085105f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5967fb9b8ec308bd9a42f3d3"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=57821be640b51e9cef44b239"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f34fab23bbd845149d3fc838"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kamiina Botan โบตั๋น คามิอินะ งดงามดุจดอกลิลลี่ยามลอยละล่อง",
+    "link": "https://www.anime108.com/kamiina-botan/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kamiina-Botan-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/kamiina-botan-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8526b568c670ac18e357c365"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/kamiina-botan-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a85efadd8b84bc65c0402a6a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 4 เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 4",
+    "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Tensei-shitara-Slime-Datta-Ken-4th-Season-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a5b47de97db74cbf6171dfbb"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cfc8e81e712fd4ed0942d8bd"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/tensei-shitara-slime-datta-ken-4-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=8259a0a49eada1f498599f61"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dao Yao Xing (Aliens Among Immortals) จอมโจรปีศาจ",
+    "link": "https://www.anime108.com/dao-yao-xing/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+    "hasDub": false,
+    "episodes": [
+      {
+        "name": "ตอนที่ 17",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-17/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6be8374b357cee7ccee448c1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 16",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-16/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5c9c8a7870ee068104bfdded"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 15",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-15/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6642b8f08b964d9a6684d9c8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 14",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-14/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=58bb3fc209d862cb3980f036"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=4eb3b6843fd839d841b5b7db"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=63fa0036b077718f268230d7"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=9aaf3e294a56089496642c73"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=1e46f4e7d13c8ef97e6e76e7"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=0e3bafaaee6bfdc4b7fe89c1"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cf61327890929e9740c1e49a"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6a9cdfee50180e9fb58f69a4"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=6758417e20a7e0f76b7f8a38"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 9",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-9/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a543c1292e1e40edef1b3dde"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 10",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-10/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f183156e6693a648f2d54f39"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 11",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-11/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=31c390c530c49a28faed5542"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 12",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-12/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a90190145f6debfc5b15591f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 13",
+        "link": "https://www.anime108.com/dao-yao-xing-ep-13/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=5287daf20fb1893a1212d0af"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Tadaima Ojamasaremasu ทาไดมะ โอจามาซาเรมาซุ",
     "link": "https://www.anime108.com/tadaima-ojamasaremasu/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/04/Tadaima-Ojamasaremasu-187x269.jpg",
@@ -3706,70 +5756,6 @@
           {
             "lang": "sub",
             "url": "https://main.108player.com/index_th.php?id=4427dc9841710c022bb6719c"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง",
-    "link": "https://www.anime108.com/nigashita-sakana-wa/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=4340631fc1a2a06bcb424b73"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/nigashita-sakana-wa-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=12886c39db7faa8084775c4c"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Nippon Sangoku สามชาติแห่งดวงอาทิตย์สีแดงฉาน",
-    "link": "https://www.anime108.com/nippon-sangoku/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nippon-Sangoku-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/nippon-sangoku-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=53ea348c79e396b7b518a0a3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Needy Girl Overdose นางฟ้าแห่งอินเทอร์เน็ต",
-    "link": "https://www.anime108.com/needy-girl-overdose/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/04/Needy-Girl-Overdose-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/needy-girl-overdose-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a58312cdce54eef752f77734"
           }
         ]
       }
@@ -6108,44 +8094,6 @@
     ]
   },
   {
-    "title": "Cang Yuan Tu 3 (The Demon Hunter 3) นักล่าอสูรกาย ภาค 3",
-    "link": "https://www.anime108.com/cang-yuan-tu-3/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/03/Cang-Yuan-Tu-3-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=de37156faba67130054392f0"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=2a52ff118f9ca128f7617a04"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/cang-yuan-tu-3-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=1381f1bebd3dacb0887c9c04"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Arne No Jikenbo สมุดบันทึกคดีของอาร์เน",
     "link": "https://www.anime108.com/arne-no-jikenbo/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Arne-No-Jikenbo-187x269.jpg",
@@ -7826,156 +9774,6 @@
     ]
   },
   {
-    "title": "Jingai Kyoushitsu No Ningengirai Kyoushi ครูหนุ่มผู้เกลียดชังมนุษย์ในห้องเรียนครึ่งมนุษย์",
-    "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Jingai-Kyoushitsu-no-Ningengirai-Kyoushi-187x269.jpg",
-    "hasDub": true,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=77bf9764fb79745e4ac896ad"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=02cdefe0ed915d0bf349baab"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=c446c4b916f59316fc126eec"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=90217df9a3dc82b085938836"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=9da07074669bb762eb29ade4"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=f1b4534d7f58a6937689292b"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=cf9fa8b40f324eb822f7f753"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=ac070f187085ca2d3a3f2b52"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=e26bc6b698d5403a3fe30713"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=29cc1ae8f90d271e749cdbdb"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=af7023bd984be3287c2384f9"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=a859e468f6301a956947c804"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=b8f5c60619182cc0c9ec9de5"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=965eaf16b9ea9dcff9b8f2e1"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 8",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-8/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=45af3334b37c8ebbd06a9184"
-          },
-          {
-            "lang": "dub",
-            "url": "https://main.108player.com/index_th.php?id=5f4c8b64869a36aa01ac87cb"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 9",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-9/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=4f3edf6fa6ce742c7d1ceeea"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 10",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-10/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=153143921067d2e9cd4f2ebc"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 11",
-        "link": "https://www.anime108.com/jingai-kyoushitsu-ningengirai-ep-11/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=341d856950bd2828b83d6c61"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Trigun Stargaze ไตรกัน สตาร์เกซ",
     "link": "https://www.anime108.com/trigun-stargaze/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/01/Trigun-Stargaze-187x269.jpg",
@@ -9018,242 +10816,6 @@
           {
             "lang": "sub",
             "url": "https://main.108player.com/index_th.php?id=eab2a2f9b1c46fe8b643ed87"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Fate Strange Fake สงครามจอกศักดิ์สิทธิ์ปลอม",
-    "link": "https://www.anime108.com/fate-strange-fake/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Fate-Strange-Fake-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 0",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-0/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=5353659c6794bbb1dd051e1b"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=52f5d7df17b07aa167920cf2"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=38e0352c4781f91ee0dc0722"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=3720e234ff0d0d660681fa17"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=ce062705774eca9d389c0d47"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a0358b59955bd437db57208a"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=bfbf8f3f3546e1d2622e08c8"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=d5ce315b10c4e46304af29cb"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 8",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-8/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=44879ade915e0186fa5c702c"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 9",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-9/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=4aff37621ef313bfd87ba4ea"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 10",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-10/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=c1cf6c7a22c82696cf682555"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 11",
-        "link": "https://www.anime108.com/fate-strange-fake-ep-11/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=9b9e81703964caa07a36c10c"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Yuusha No Kuzu ผู้กล้าสวะ",
-    "link": "https://www.anime108.com/yuusha-no-kuzu/",
-    "image": "https://www.anime108.com/wp-content/uploads/2026/01/Yuusha-No-Kuzu-187x269.jpg",
-    "hasDub": false,
-    "episodes": [
-      {
-        "name": "ตอนที่ 1",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-1/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=bf67842d280c36b5a81b77af"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 2",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-2/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=a6223c3aeb51f229e891a20e"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 3",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-3/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=f406186cea50e89b9c61ce09"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 4",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-4/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=b99e237f849e45d83b6be29f"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 5",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-5/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=4a29735c352f5e452cc71dd5"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 6",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-6/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=2c02e38672a6ab78d10a46d8"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 7",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-7/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=91551933d23ec419a085105f"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 8",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-8/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=5967fb9b8ec308bd9a42f3d3"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 9",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-9/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=57821be640b51e9cef44b239"
-          }
-        ]
-      },
-      {
-        "name": "ตอนที่ 10",
-        "link": "https://www.anime108.com/yuusha-no-kuzu-ep-10/",
-        "players": [
-          {
-            "lang": "sub",
-            "url": "https://main.108player.com/index_th.php?id=f34fab23bbd845149d3fc838"
           }
         ]
       }
