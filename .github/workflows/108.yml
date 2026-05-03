@@ -2,9 +2,7 @@ name: Anime108
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 15 * * *" # ทุกวัน 22:00 ไทย
-
+  
 permissions:
   contents: write
 
