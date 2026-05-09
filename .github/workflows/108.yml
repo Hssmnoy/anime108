@@ -37,18 +37,15 @@ jobs:
           git config --global user.name "bot"
           git config --global user.email "bot@users.noreply.github.com"
 
-          git add .
-          git commit -m "update data" || echo "no changes"
-
-          # 🔥 เคลียร์ rebase ค้างก่อน
-          git rebase --abort || true
-          rm -rf .git/rebase-merge || true
-
-          # 🔄 sync ล่าสุดแบบไม่พัง
+          # 🔄 sync ล่าสุดก่อนทำงาน
           git fetch origin main
           git reset --hard origin/main
 
-          # 🔁 retry push
+          # 📦 add + commit
+          git add .
+          git commit -m "update data" || echo "no changes"
+
+          # 🚀 push พร้อม retry
           for i in 1 2 3; do
             git push origin HEAD:main && break
             echo "retry push $i..."
