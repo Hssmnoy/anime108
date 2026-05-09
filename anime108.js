@@ -166,7 +166,7 @@ function buildWiseplayJSON(categoryName, data) {
 }
     const output = {
     name: categoryName.replace(/\//g, ""),
-    author: new Date().toLocaleDateString("th-TH"),
+    author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
     image: "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
     url: BASE,
     groups: []
@@ -210,12 +210,12 @@ function buildWiseplayJSON(categoryName, data) {
 
 function generateIndex(categories) {
   const baseRaw =
-    "https://raw.githubusercontent.com/YOUR_REPO/hdx/main/wiseplay/";
+    "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/";
 
   const index = {
     name: "Anime108",
-    author: new Date().toLocaleDateString("th-TH"),
-    image: "https://www.anime108.com/favicon.ico",
+    author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
+    image: "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
     url: BASE,
     groups: []
   };
@@ -227,7 +227,7 @@ function generateIndex(categories) {
 
     index.groups.push({
       name: cat.replace(/\//g, ""),
-      image: "https://www.anime108.com/favicon.ico",
+      image: "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
       url: baseRaw + file
     });
   }
