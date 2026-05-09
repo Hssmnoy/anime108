@@ -233,9 +233,9 @@ function generateIndex(categories) {
   }
 
   fs.writeFileSync(
-    "wiseplay/index.json",
-    JSON.stringify(index, null, 2)
-  );
+  `${WISEPLAY_DIR}/index.json`,
+  JSON.stringify(index, null, 2)
+ );
 
   console.log("📦 index.json created");
 }
