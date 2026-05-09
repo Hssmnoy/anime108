@@ -2,9 +2,9 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const { execSync } = require("child_process");
-
+const DOMAIN = "https://www.anime108.com";
 const BASE = "https://www.anime108.com";
-
+const WISEPLAY_DIR = "wiseplay";
 const CONFIG = {
   categories: [
     "/อนิเมะ-2026/",
@@ -160,10 +160,93 @@ async function getPlayers(meta, episode) {
   return results;
 }
 
+function buildWiseplayJSON(categoryName, data) {
+  if (!fs.existsSync("wiseplay")) {
+  fs.mkdirSync("wiseplay");
+}
+    const output = {
+    name: categoryName.replace(/\//g, ""),
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+    url: BASE,
+    groups: []
+  };
+
+  for (const anime of data) {
+    const group = {
+      name: anime.title,
+      image: anime.image || "",
+      stations: []
+    };
+
+    if (!anime.episodes) continue;
+
+    for (const ep of anime.episodes) {
+      if (!ep.players) continue;
+
+      for (const p of ep.players) {
+        group.stations.push({
+          name: `${ep.name} (${p.lang})`,
+          image: anime.image || "",
+          url: p.url,
+          referer: BASE
+        });
+      }
+    }
+
+    if (group.stations.length > 0) {
+      output.groups.push(group);
+    }
+  }
+
+  const fileName =
+    "wiseplay/" +
+    categoryName.replace(/\//g, "").replace(/\s+/g, "-") +
+    ".json";
+
+  fs.writeFileSync(fileName, JSON.stringify(output, null, 2));
+  console.log("📺 Wiseplay created:", fileName);
+}
+
+function generateIndex(categories) {
+  const baseRaw =
+    "https://raw.githubusercontent.com/YOUR_REPO/hdx/main/wiseplay/";
+
+  const index = {
+    name: "Anime108",
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://www.anime108.com/favicon.ico",
+    url: BASE,
+    groups: []
+  };
+
+  for (const cat of categories) {
+    const file = cat
+      .replace(/\//g, "")
+      .replace(/\s+/g, "-") + ".json";
+
+    index.groups.push({
+      name: cat.replace(/\//g, ""),
+      image: "https://www.anime108.com/favicon.ico",
+      url: baseRaw + file
+    });
+  }
+
+  fs.writeFileSync(
+    "wiseplay/index.json",
+    JSON.stringify(index, null, 2)
+  );
+
+  console.log("📦 index.json created");
+}
+
 // 🚀 MAIN
 (async () => {
   console.log("🚀 Start...\n");
-
+  
+  if (!fs.existsSync("wiseplay")) {
+  fs.mkdirSync("wiseplay");
+}
   for (const category of CONFIG.categories) {
     console.log("\n📂 หมวด:", category);
 
@@ -326,5 +409,8 @@ if (!hasUpdateInPage) {
     );
      gitCommit(`final ${fileName}`);
     console.log(`\n✅ หมวด ${category} เสร็จ → ${fileName}`);
+    buildWiseplayJSON(category, results);
+    gitCommit(`wiseplay ${fileName}`);
   }
+  generateIndex(CONFIG.categories);
 })();
