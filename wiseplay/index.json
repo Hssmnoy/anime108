@@ -1,0 +1,38 @@
+{
+  "name": "Anime108",
+  "author": "อัพเดตล่าสุด 9/5/2569",
+  "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+  "url": "https://www.anime108.com",
+  "groups": [
+    {
+      "name": "อนิเมะ-2026",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะ-2026.json"
+    },
+    {
+      "name": "อนิเมะ-2025",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะ-2025.json"
+    },
+    {
+      "name": "อนิเมะพากย์ไทย",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะพากย์ไทย.json"
+    },
+    {
+      "name": "อนิเมะซับไทย",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะซับไทย.json"
+    },
+    {
+      "name": "อนิเมะจบแล้ว",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะจบแล้ว.json"
+    },
+    {
+      "name": "อนิเมะเก่า",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/anime108/main/wiseplay/อนิเมะเก่า.json"
+    }
+  ]
+}
