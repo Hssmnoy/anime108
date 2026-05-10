@@ -1,9 +1,27 @@
 {
   "name": "อนิเมะพากย์ไทย",
-  "author": "อัพเดตล่าสุด 9/5/2569",
+  "author": "อัพเดตล่าสุด 10/5/2569",
   "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
   "url": "https://www.anime108.com",
   "groups": [
+    {
+      "name": "Blue Thermal ทฤษฎีสีฟ้า",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/05/Blue-Thermal-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Blue-Thermal-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d4c0ead30aa64301024158c9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Blue-Thermal-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d99fbeb2a49ce4ee15d581df",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
     {
       "name": "Douluo Dalu II – Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน สำนักถังเลิศภพจบแดน ภาค 2",
       "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
