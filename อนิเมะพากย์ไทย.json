@@ -1,5 +1,27 @@
 [
   {
+    "title": "Blue Thermal ทฤษฎีสีฟ้า",
+    "link": "https://www.anime108.com/blue-thermal/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/05/Blue-Thermal-187x269.jpg",
+    "hasDub": true,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/blue-thermal-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=d4c0ead30aa64301024158c9"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=d99fbeb2a49ce4ee15d581df"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Douluo Dalu II – Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน สำนักถังเลิศภพจบแดน ภาค 2",
     "link": "https://www.anime108.com/douluo-dalu-ii/",
     "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
