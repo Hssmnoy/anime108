@@ -1,5 +1,125 @@
 [
   {
+    "title": "Devil May Cry 2",
+    "link": "https://www.anime108.com/devil-may-cry-2/",
+    "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+    "hasDub": true,
+    "episodes": [
+      {
+        "name": "ตอนที่ 1",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-1/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=da0e294e893a33f4c3d5470f"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=21a999577b25ef4e75b2e09f"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 2",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-2/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=cc04b566519fba9daa83e17a"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=8b37a2669bd54c1d06d8e120"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 3",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-3/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=69e235e5f52ccabb4909a030"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=07e28b42f62bcd849ba72eaf"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 4",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-4/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=e574a90ee28aa621bcbe1746"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=ecb8d79c989f46602421f524"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 5",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-5/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=f7955e00dfc4326ffe5ef4c2"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=9e3d23549b4c23114122fb2b"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 6",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-6/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=b154b2ffd14a6d688320bd0c"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=a0f00e3dd131bc0431a38ae8"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 7",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-7/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=a643c960afc2467fc12ad688"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=769750687c24c54245f475a2"
+          }
+        ]
+      },
+      {
+        "name": "ตอนที่ 8",
+        "link": "https://www.anime108.com/devil-may-cry-2-ep-8/",
+        "players": [
+          {
+            "lang": "sub",
+            "url": "https://main.108player.com/index_th.php?id=af556bf40708f246c14bea12"
+          },
+          {
+            "lang": "dub",
+            "url": "https://main.108player.com/index_th.php?id=a862057f78267e3be1c39cb1"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Devilman Crybaby เดวิลแมน ครายเบบี้",
     "link": "https://www.anime108.com/devilman-crybaby/",
     "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devilman-Crybaby-187x269.jpg",
