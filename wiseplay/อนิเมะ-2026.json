@@ -1,9 +1,861 @@
 {
   "name": "อนิเมะ-2026",
-  "author": "อัพเดตล่าสุด 13/5/2569",
+  "author": "อัพเดตล่าสุด 14/5/2569",
   "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
   "url": "https://www.anime108.com",
   "groups": [
+    {
+      "name": "Devil May Cry 2",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=da0e294e893a33f4c3d5470f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=21a999577b25ef4e75b2e09f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cc04b566519fba9daa83e17a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8b37a2669bd54c1d06d8e120",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=69e235e5f52ccabb4909a030",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=07e28b42f62bcd849ba72eaf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e574a90ee28aa621bcbe1746",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ecb8d79c989f46602421f524",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f7955e00dfc4326ffe5ef4c2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9e3d23549b4c23114122fb2b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b154b2ffd14a6d688320bd0c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a0f00e3dd131bc0431a38ae8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a643c960afc2467fc12ad688",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=769750687c24c54245f475a2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=af556bf40708f246c14bea12",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Devil-May-Cry-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a862057f78267e3be1c39cb1",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Dao Yao Xing (Aliens Among Immortals) จอมโจรปีศาจ",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 26 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e0f044f5dafce4d66d490286",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 25 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9b4b411bb5e2b10fe9cced00",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 24 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e934f3906eb39f7d2e4ebf19",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 23 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=23874f25b83db2e724bd80cf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 22 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e977839387c835fa53d9ba35",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 21 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=89532a19d145bc5c620c851a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 20 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=70976633ecaa04a40bbfe229",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 19 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9325a93ed738b72962dd26ae",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 18 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e9aa161da39484428568205e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 17 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6be8374b357cee7ccee448c1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 16 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5c9c8a7870ee068104bfdded",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 15 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6642b8f08b964d9a6684d9c8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 14 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=58bb3fc209d862cb3980f036",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4eb3b6843fd839d841b5b7db",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=63fa0036b077718f268230d7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9aaf3e294a56089496642c73",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1e46f4e7d13c8ef97e6e76e7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0e3bafaaee6bfdc4b7fe89c1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cf61327890929e9740c1e49a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6a9cdfee50180e9fb58f69a4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6758417e20a7e0f76b7f8a38",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 9 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a543c1292e1e40edef1b3dde",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 10 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f183156e6693a648f2d54f39",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 11 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=31c390c530c49a28faed5542",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 12 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a90190145f6debfc5b15591f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 13 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5287daf20fb1893a1212d0af",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Panlong (Coiling Dragon) ตำนานมหาเวทแห่งมังกร",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a7ea9eaff2a37b8eddffc265",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=963dddb62e6b8b5bfd2a1fdc",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a06d2014ab98793a8746a7bd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c1e3ba42ebf7879098ef9e77",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2680f60285e688a0dc48eb06",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Jidou Hanbaiki ni Umarekawatta 3 เกิดใหม่เป็นตู้หยอดเหรียญแล้วไปผจญภัยในดันเจี้ยน ภาค 3",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3e43efb302d70d6904bd9b2e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8f7418fe38f6be5cb1cf058d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a6836c391f13e72baaf6cc12",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4a1be9ed8ce3b620c35154d5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=272d76e27bb2bd233ea971c9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e56c356b37a187369226340f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=af38260a2c9f1c18c05271bb",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Otaku ni Yasashii Gal wa Inai สาว ๆ ไม่ใจดีกับโอตาคุเหรอ",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a8a4ad793377651e254ca0b8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=95102d3b8359f7b71e56a8f4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c680742b52e1fea651a6aeaf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7ad69f02dfaa6174c5f1a57d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=519eaa0b09401a9ca3f3409a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=63aca4b34739b93e2a4dbf68",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "The Beginning After the End Season 2 กลับชาติมาเกิดในโลกใหม่ที่เต็มไปด้วยเวทมนตร์และสัตว์ประหลาด ภาค 2",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c2d4095de7ba248ef9b8c25f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0b4b38e16218cef93c742b55",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fbe71dc060793769e992efb8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e91b8f734fa611f207d89a5e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=964a173024099983b7c700cb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=39fad0052960f2cf3da1f51a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e9f40ea616cdfdd2c584c961",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=43dac5422c9e14a2fe1d237f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cb7cefc928a0c1eb3efaf056",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=16ab981a2b8815609874e257",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ea9905200406f10133f95518",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8e5813158f7ecf98616f654d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4340631fc1a2a06bcb424b73",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=12886c39db7faa8084775c4c",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu Season 4 รีเซ็ตชีวิต ฝ่าวิกฤตต่างโลก ภาค 4",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ae100dc402c6d575814dba59",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=317f07755f114f61bbc9706a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=24710e975ec3d563ffee7176",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4821f177ba42817d30d41f47",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=39bc3301c9760129e6df3c6a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1eba50a554445a596b72f709",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Kanojo Okarishimasu Season 5 สะดุดรักยัยแฟนเช่า ภาค 5",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=430e05f68bcc9e717b8af12e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ea6b4a484ec90c6d2751da1a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fe650f02eb3601b6fae1e976",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c1c36d77e3c9c333dd7fbc4b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2f4352bca85dc174c0da00ce",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=78484a3362761590260f7e3d",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Dorohedoro Season 2 สาปพันธ์ุอสูร ภาค 2",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 9 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=313fece5f88086aef08cf1d0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0323efb46ad2734d77a313ea",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=28875ce3369aac236a8c02bd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a3231c6a1185724edd7c5e8f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=86decd1e7320a2d096a0d11a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=88f9e011f801d81f03c44d60",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=03669040aefa4f3a3866e08c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=64c4a75902596b2e24c055c6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=202bd6730d22407cad568316",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Megami Isekai Tensei ท่านเทพธิดาจัดมา ผมก็จัดไป ขอเกิดใหม่เป็นซี่โครงผู้กล้าละกันครับ",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9c75365579091feb9619eaa1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=00e6b5eebc0521306dbedf8b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4a7813fbbb1590c708f6d2e9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=663b6c1f5246bf696aba8377",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3ed44e0fa4a84fb577a687d6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dead8f895e2060afe96c2a90",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 4",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 9 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=37c3aea5eda8a7a9e88306c7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c860603e27fae2758de2f7ae",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bb4d08ebf30a6be417bd691c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7cba4c95322c942527b208ec",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2441abccf9da3d59f312d803",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2257de61e6b2f88c9c564c48",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ed7a4f97daf12d6df22fddbc",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b731389f01c055880ef90f6b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6ba3eae8ac7317dcfd6ea085",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Iya na Kao Sare Nagara Opantsu Misete Moraitai Returns ฉันอยากให้เธอโชว์กางเกงใน",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ebfe5ca139136e4e450cdcb5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=737cf217fac28ba82920a6a2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=80e72b85a1eb559b9d5ee90d",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Himekishi wa Barbaroi no Yome เจ้าสาวนักดาบกับราชาคนเถื่อน",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c38bb1501ea215766a0c69e3",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ee4f4b3499d4244570b976b8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6f5714c677c8673c8586e503",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f452b8053deebf4925aca01c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ad2c2ab0d3936065a12b1b25",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f15ff332db5723d240d20a86",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
+    {
+      "name": "Ganbare! Nakamura-kun พยายามเข้า นากามุระคุง",
+      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6ab5731fd6ebba79de7dfff5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8161281d48d19dc23bde4e5e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cccfb1c19aee8d781b0a24fd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=28a7f5009d96d052e3069a59",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=40f7f7d0bb719b28162711b9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=06bd262ea79a9105b930836c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3663c3b2a835d4cd3e2e6231",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a5ba3a95be8fbe00bd00b120",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
     {
       "name": "Replica datte, Koi wo Suru รักฉันเทียมเธอ",
       "image": "https://www.anime108.com/wp-content/uploads/2026/04/Replica-datte-Koi-wo-Suru-187x269.jpg",
@@ -1697,162 +2549,6 @@
       ]
     },
     {
-      "name": "Dao Yao Xing (Aliens Among Immortals) จอมโจรปีศาจ",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 25 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9b4b411bb5e2b10fe9cced00",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 24 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e934f3906eb39f7d2e4ebf19",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 23 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=23874f25b83db2e724bd80cf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 22 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e977839387c835fa53d9ba35",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 21 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=89532a19d145bc5c620c851a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 20 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=70976633ecaa04a40bbfe229",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 19 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9325a93ed738b72962dd26ae",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 18 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e9aa161da39484428568205e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 17 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6be8374b357cee7ccee448c1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 16 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5c9c8a7870ee068104bfdded",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 15 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6642b8f08b964d9a6684d9c8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 14 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=58bb3fc209d862cb3980f036",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4eb3b6843fd839d841b5b7db",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=63fa0036b077718f268230d7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9aaf3e294a56089496642c73",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1e46f4e7d13c8ef97e6e76e7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0e3bafaaee6bfdc4b7fe89c1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cf61327890929e9740c1e49a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 7 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6a9cdfee50180e9fb58f69a4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 8 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6758417e20a7e0f76b7f8a38",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 9 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a543c1292e1e40edef1b3dde",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 10 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f183156e6693a648f2d54f39",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 11 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=31c390c530c49a28faed5542",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 12 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a90190145f6debfc5b15591f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 13 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/03/Dao-Yao-Xing-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5287daf20fb1893a1212d0af",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
       "name": "Kill Blue คิลบลู",
       "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kill-Blue-187x269.jpg",
       "stations": [
@@ -3047,54 +3743,6 @@
       ]
     },
     {
-      "name": "Iya na Kao Sare Nagara Opantsu Misete Moraitai Returns ฉันอยากให้เธอโชว์กางเกงใน",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=737cf217fac28ba82920a6a2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Iya-na-Kao-Sare-Nagara-Opantsu-Misete-Moraitai-Returns-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=80e72b85a1eb559b9d5ee90d",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Panlong (Coiling Dragon) ตำนานมหาเวทแห่งมังกร",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=963dddb62e6b8b5bfd2a1fdc",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a06d2014ab98793a8746a7bd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c1e3ba42ebf7879098ef9e77",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/05/Panlong-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2680f60285e688a0dc48eb06",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
       "name": "Xiuxian Zhe Dazhan Chaonengli ศึกผู้บำเพ็ญเซียน ปะทะพลังเหนือมนุษย์",
       "image": "https://www.anime108.com/wp-content/uploads/2026/03/Xiuxian-Zhe-Dazhan-Chaonengli-187x269.jpg",
       "stations": [
@@ -3341,48 +3989,6 @@
       ]
     },
     {
-      "name": "Jidou Hanbaiki ni Umarekawatta 3 เกิดใหม่เป็นตู้หยอดเหรียญแล้วไปผจญภัยในดันเจี้ยน ภาค 3",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8f7418fe38f6be5cb1cf058d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a6836c391f13e72baaf6cc12",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4a1be9ed8ce3b620c35154d5",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=272d76e27bb2bd233ea971c9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e56c356b37a187369226340f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Jidou-Hanbaiki-ni-Umarekawatta-3-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=af38260a2c9f1c18c05271bb",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
       "name": "Star Wars Maul Shadow Lord",
       "image": "https://www.anime108.com/wp-content/uploads/2026/04/Star-Wars-Maul-Shadow-Lord-187x269.jpg",
       "stations": [
@@ -3485,210 +4091,6 @@
       ]
     },
     {
-      "name": "Himekishi wa Barbaroi no Yome เจ้าสาวนักดาบกับราชาคนเถื่อน",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ee4f4b3499d4244570b976b8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6f5714c677c8673c8586e503",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f452b8053deebf4925aca01c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ad2c2ab0d3936065a12b1b25",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Himekishi-wa-Barbaroi-no-Yome-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f15ff332db5723d240d20a86",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Ganbare! Nakamura-kun พยายามเข้า นากามุระคุง",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 7 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8161281d48d19dc23bde4e5e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cccfb1c19aee8d781b0a24fd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=28a7f5009d96d052e3069a59",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=40f7f7d0bb719b28162711b9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=06bd262ea79a9105b930836c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3663c3b2a835d4cd3e2e6231",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Ganbare-Nakamura-kun-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a5ba3a95be8fbe00bd00b120",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Otaku ni Yasashii Gal wa Inai สาว ๆ ไม่ใจดีกับโอตาคุเหรอ",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=95102d3b8359f7b71e56a8f4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c680742b52e1fea651a6aeaf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7ad69f02dfaa6174c5f1a57d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=519eaa0b09401a9ca3f3409a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Otaku-ni-Yasashii-Gal-wa-Ina-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=63aca4b34739b93e2a4dbf68",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "The Beginning After the End Season 2 กลับชาติมาเกิดในโลกใหม่ที่เต็มไปด้วยเวทมนตร์และสัตว์ประหลาด ภาค 2",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0b4b38e16218cef93c742b55",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fbe71dc060793769e992efb8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e91b8f734fa611f207d89a5e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=964a173024099983b7c700cb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=39fad0052960f2cf3da1f51a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Beginning-After-the-End-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e9f40ea616cdfdd2c584c961",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken ปล่อยปลาตัวใหญ่หลุดมือไปก็จริง",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cb7cefc928a0c1eb3efaf056",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=16ab981a2b8815609874e257",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ea9905200406f10133f95518",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8e5813158f7ecf98616f654d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4340631fc1a2a06bcb424b73",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=12886c39db7faa8084775c4c",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
       "name": "The Super Mario Galaxy Movie เดอะซูเปอร์มาริโอกาแล็กซี่มูฟวี่",
       "image": "https://www.anime108.com/wp-content/uploads/2026/04/The-Super-Mario-Galaxy-Movie-187x269.jpg",
       "stations": [
@@ -3738,132 +4140,6 @@
           "name": "ตอนที่ 3 (sub)",
           "image": "https://www.anime108.com/wp-content/uploads/2026/04/Maid-san-wa-Taberu-dake-187x269.jpg",
           "url": "https://main.108player.com/index_th.php?id=cc928fa171ce54b1aef65714",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Re:Zero kara Hajimeru Isekai Seikatsu Season 4 รีเซ็ตชีวิต ฝ่าวิกฤตต่างโลก ภาค 4",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=317f07755f114f61bbc9706a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=24710e975ec3d563ffee7176",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4821f177ba42817d30d41f47",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=39bc3301c9760129e6df3c6a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/ReZero-kara-Hajimeru-Isekai-Seikatsu-Season-4-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1eba50a554445a596b72f709",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Kanojo Okarishimasu Season 5 สะดุดรักยัยแฟนเช่า ภาค 5",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ea6b4a484ec90c6d2751da1a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fe650f02eb3601b6fae1e976",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c1c36d77e3c9c333dd7fbc4b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2f4352bca85dc174c0da00ce",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Kanojo-Okarishimasu-5-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=78484a3362761590260f7e3d",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Dorohedoro Season 2 สาปพันธ์ุอสูร ภาค 2",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 8 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0323efb46ad2734d77a313ea",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 7 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=28875ce3369aac236a8c02bd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a3231c6a1185724edd7c5e8f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=86decd1e7320a2d096a0d11a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=88f9e011f801d81f03c44d60",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=03669040aefa4f3a3866e08c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=64c4a75902596b2e24c055c6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Dorohedoro-Season-2-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=202bd6730d22407cad568316",
           "referer": "https://www.anime108.com"
         }
       ]
@@ -4026,90 +4302,6 @@
           "name": "ตอนที่ 1 (sub)",
           "image": "https://www.anime108.com/wp-content/uploads/2026/04/Reincarnation-no-Kaben-187x269.jpg",
           "url": "https://main.108player.com/index_th.php?id=d6578a62757bf2315af3c27a",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Megami Isekai Tensei ท่านเทพธิดาจัดมา ผมก็จัดไป ขอเกิดใหม่เป็นซี่โครงผู้กล้าละกันครับ",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4a7813fbbb1590c708f6d2e9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=663b6c1f5246bf696aba8377",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3ed44e0fa4a84fb577a687d6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Megami-Isekai-Tensei-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dead8f895e2060afe96c2a90",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 4",
-      "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 8 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c860603e27fae2758de2f7ae",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 7 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bb4d08ebf30a6be417bd691c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7cba4c95322c942527b208ec",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2441abccf9da3d59f312d803",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2257de61e6b2f88c9c564c48",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ed7a4f97daf12d6df22fddbc",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b731389f01c055880ef90f6b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6ba3eae8ac7317dcfd6ea085",
           "referer": "https://www.anime108.com"
         }
       ]
