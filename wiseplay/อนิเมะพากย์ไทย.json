@@ -1,9 +1,1785 @@
 {
   "name": "อนิเมะพากย์ไทย",
-  "author": "อัพเดตล่าสุด 15/5/2569",
+  "author": "อัพเดตล่าสุด 16/5/2569",
   "image": "https://www.anime108.com/wp-content/uploads/2024/04/anime108-e1713838624780.png",
   "url": "https://www.anime108.com",
   "groups": [
+    {
+      "name": "Douluo Dalu II – Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน สำนักถังเลิศภพจบแดน ภาค 2",
+      "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 153 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b1a38b45140fc661ba9262e2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 152 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2c3e47237602d53c3bb51e30",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 151 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2607ed4a766f4fa55805cd82",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 150 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0815c2af0202d1d14d07cf4c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 149 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bc0a9d76818637b2a3fab2dc",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 148 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ec4e5d3e80372f0a717a6860",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 147 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c4f94eebf3b1e3871dffba2b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a5e91f6dd85cc33a564e9295",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 1 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=495c2de9af319cb3856a4dda",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=57babe2d3495f314c27f7a3e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 2 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c136e47d87682c81dbeeed30",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=65a45c9a42e8b9fd44689250",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 3 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1370d0cee792c3ba665903f6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=84d5cbf1b9c1e6fd7282b604",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 4 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=57308f60df017908eb841e72",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5c3182b575d9604c72709f71",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 5 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=038494809d68db8fa1a5f264",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a4b28f98134d930abb06af6f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 6 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f273bbb2153f4f8dbecbc369",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=809dba153f5f89c611ae7180",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 7 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=790adeebf2f746f976993f07",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=933256e3a907878c7bc0ce4a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 8 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d2a7d2ca3eaf2d4119e9d377",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 9 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0f4d52d7b3179be4d1c1c72f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 9 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4bfc4c9768aef8ed64739516",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 10 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fa488a30c4292bbde2791978",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 10 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3c36641dc653beaeeab13434",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 11 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2feb9a3275841da2ac636e12",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 11 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2cdb33813d85b004cff763cb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 12 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ae1ef2dba056a7c179749731",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 12 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b94be58c896a2634d49b567b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 13 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3bdd392deead1839bb5d9d8a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 13 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fff7e74ce9a366329db697b6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 14 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=301dacc5af51048eeb75954b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 14 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=03102344c3914fc2f6418528",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 15 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cfe85c32d512c8df82d0568e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 15 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3b898b8112faf2d4c1d31d18",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 16 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6b19daf2515076bc97532909",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 16 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cfe5736daf3b90666b5d6258",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 17 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8d0f0ca4d5f7c272a4480713",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 17 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fb6bc312d948cede2cd9d0f9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 18 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dc202af3b4cf8521445dcbfe",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 18 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=37e7a97f5eb613ea7f6e1f20",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 19 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1b2cba1c66a773887fe103f3",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 19 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bf4ad602577fe9e30a2b587f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 20 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=82ca20dbc5a7cc0b37afa8d1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 20 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0681859e9c709905c3938226",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 21 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2b40389d01d57a162c9d4261",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 21 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9b49e8220285cddfeef3a2d8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 22 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f5291bac3250e91dd42424f6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 22 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2ead37407e1b1387835d70be",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 23 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fb5ccc71caaca14a5c25a958",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 23 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=08187f752050572f443ec6d9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 24 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2482ce278ed7f7447f3a72e0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 24 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=90db241a0b127fe5fd3c01d2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 25 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=39a06e7f736c25199d51279f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 25 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f14534473ed941031b8d9420",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 26 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6d2c658cb1df48fd5db33272",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 26 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2cec1e0a7e2e0a96fcc3566e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 27 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=88bda0aaa583519bc04c88ee",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 27 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d6ba908584883bca7fca86e6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 28 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=75edebcbb7dc490977607d98",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 28 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9fb188775a5ba81980aa81e9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 29 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ea073973ba52664714982378",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 29 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f4716d959454ffb0eab1f735",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 30 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a5e9397e0d26d0da6f499177",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 30 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6e5ff8ae5ee8dc808267bba1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 31 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6aff688f44b9863154c89d07",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 31 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=00fc4840a7c5554656745077",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 32 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d64c7f8f3682ef9b44c8b3c1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 32 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f80ca72db87aa443e8e5821f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 33 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=53c4b252712b3f288bda839a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 33 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=20807d65ba2e01a04f161818",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 34 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5fc27fc603ef45c0f1a99849",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 34 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=4cae9f68767d29c62028d714",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 35 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f620687635db5b634797df17",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 35 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1b46eb637690234a80fbeadb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 36 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6e753d0b5e29e2f5abe80271",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 36 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6ab4199d2a40767439ada98b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 37 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=627d9e15e939139c00618dbf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 37 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=45adce19666d2cf846537454",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 38 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7e2d2fe2b93f1ae41d8b0711",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 38 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=71f26b8ff307f6296d993874",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 39 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cfd5abac1e2c64850d534fe3",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 39 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f4ff40215c269e0b3311aa10",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 40 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bcfe86d30aab9b9dc014968e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 40 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=564066ed692460693ce2eac6",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 41 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=981508c8c614317b00d8e84a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 41 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=20db57b3f120715b7bc77cee",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 42 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e5490a7661c2ac4cadfb1a24",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 42 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cfcc7af678fbad451847b931",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 43 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=13e25317cb0d5a5552688195",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 43 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b0082b987f81a07d22b370af",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 44 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7298716ce2905ba3af5c6985",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 44 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c6bc615f3410ccbaaef1316b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 45 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c0e93411636fe03cd1752b25",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 45 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=aca44c4c7e1afdbef2627c81",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 46 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ae7ac445e0b5181f9c141030",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 46 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=63a75655af5a96dca36d8498",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 47 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d0c17b605287f4df4cb7ff87",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 47 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=52b8fd6575223fcc30b1a20e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 48 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6b683d27ba6180f742106e93",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 48 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=59deff7e3aff168ccdc8394b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 49 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=17b886aa4ae2f8f88291a629",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 49 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=185e9679ffc7ba95a244bb4f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 50 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a58cf8bca67679bee1135a59",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 50 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=40dac575755117e7b68374e3",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 51 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=aa24e135f499a5b0f3bfcf26",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 51 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f905776c798d72ee869ffaa4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 52 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d89269e2211f09d85e32855c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 52 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cf3816eeb769bcded55a1c69",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 53 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ab604ccf1611f0473f7df615",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 53 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=03a3e6ab2d420c2c8b53168c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 54 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=adeff9367b46fb864c9f81cb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 54 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7fc4988be1e3a93b5058baf0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 55 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=23d0e8f75794c8aef9188a13",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 55 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1550c5a038589e809d6a3e37",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 56 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1d64029f0f7ef5ee21a3dc98",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 56 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=be9e72e9c269282e56c64eff",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 57 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e5c4f64db457776ddd50fb57",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 57 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=67d5e6ecee8403006b7b3b19",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 58 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7313ae0e763e453bd5a2e878",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 58 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9977f967a710a609a25a8eb9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 59 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=755f7825c248dc679617707e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 59 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5aca8994ca82f2f3e3d14432",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 60 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3366f1c98b88ec09dbb7a265",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 60 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9571be869baaf6f52c577a4d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 61 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fbed7fdc46822fcbccc08039",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 61 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3376752b8c3b3c35779a1706",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 62 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=26a70d49ffc600b3137d63c1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 62 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2dff2502ef705b3cd80371b1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 63 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e551e8469338ae3c2377efc0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 63 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=31e37466b7ca9c4bc5a340d4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 64 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=aba7432b3e8e88dbccf0ab84",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 64 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8f5519030f291a8b5e751832",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 65 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7c1f3c3b297a9bee92175e1e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 65 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6ee4d0b5b30fe567760d96d2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 66 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cc49ae9fd9b5994ead8ea713",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 66 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d6ee4af7d45b7f6016f98dfd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 67 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8358e40ddc37092e4698c7a1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 67 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6161de1324533267847c002a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 68 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=48c11428bda1fb99303c9e71",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 68 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=06f02be6b6f14ed170c5c107",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 69 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f66db34e6d57fbe6930b87b2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 69 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a48335380fdbf77a1b141e3f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 70 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8a0a0a4ace69cde741f0cfd0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 70 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=769c1422f590b7a6fbcb13cd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 71 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f4bb31d546b909111aa17bf8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 71 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d2667da74375274bf4c5da83",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 72 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=87a209230524fd9b46c04ab5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 72 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d2d00823f68c802260d52d9e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 73 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3e8aac6c2044785c08e05050",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 73 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9e2dd8d5436e822f89e2db98",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 74 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ac56fb3986642f4011826589",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 74 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b4c083c5e4b9811da441d57d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 75 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cc49dc94679be59d368aba42",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 75 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=12644cfc301db9155a10cb43",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 76 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f84d2d9e7c522c54107ddc0e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 76 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2cd05bd570dd75e0b6f3a618",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 77 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=907628629e4d2d85c0598115",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 77 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=260d151ed74c446605f64c3d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 78 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cdc1fab22dd707a3e31fa34c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 78 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fe7b520fd7876fde77105378",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 79 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=71a3f177e3c2b14578a39283",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 79 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3d241373c859dc78795c3bed",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 80 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=725c8d55dee1d6ba3b4df022",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 80 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d681c779605b0f53a019cc77",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 81 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d0d9c5703491056dc95f53cb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 81 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9816702c433eab73d17195d4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 82 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=fa3095f9f42badcfeee284fe",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 82 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a35fe8c3cea161a4a17f446f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 83 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f6f02186cc6527d37039f467",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 83 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=adb8923d1b5c26e1b842e3d7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 84 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9dfa0849b3243385a2b5fe50",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 84 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=78522e98e5149711e4d9898b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 85 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=be93799d5c95407c85b01ae8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 85 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d773d45978429bc5a9a030c1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 86 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=de234ee39ee45cafd806eee8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 86 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c4a76987b421c4466d346501",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 87 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=edb6fa7813b04bf454c05642",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 87 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7744f665e1253045a9ae7183",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 88 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b864f51f77c4bf2fb1731d7a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 88 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2dbc55f58b244e24a31a42f8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 89 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a074f0848a76bc460f52f81d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 89 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2d0078823de2cdf2148578e0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 90 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5d32194fa5738ceb75f29bf2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 90 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=72796026c47f9c46256f5a0b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 91 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6e0ebb19c0c7ae7975b7432a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 91 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dfe9e449e6aeeaf7d255d133",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 92 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a53aee97709df480a33947e4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 92 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b15e0f3230aec722d179b50e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 93 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d158314accd3ac98c273f823",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 93 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d240bea938afb534b9303c0e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 94 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9f5ce9716ba56a60d07b7a23",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 94 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=aab56613dc5a1ded633879d5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 95 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5cda42b8ff6a083696dfdd12",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 95 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a72730db463d66addce3deb1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 96 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2394ef4b247cdda76fb069cb",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 97 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=782a8fb546d2774c994f9dee",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 97 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=42f38a83d16567beac4bfd10",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 98 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c9b6b057d9024c23b18bf958",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 98 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=112b961671c38987b6ff3e81",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 99 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=48c08e06a83167b11d3b7c5c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 99 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=be2520444e45b84ba1cb702b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 100 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cb1fd80c2450d1e9d7c58e91",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 100 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1441432c1e92eab5e5e2eeec",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 101 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1ce2e4702161dc0dc418d907",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 101 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=852b45a03ef49745d442ff6c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 102 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5209ae0807f13d6058114a5d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 102 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=584ceea2f4626a0c1522d197",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 103 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f224f90ff8ca5745a61cd7ce",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 103 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ae7fa0d0a45305bc2c35b21b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 104 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=454420ae37521f9d59b5c098",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 104 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=97a094af2ca5f2e21ab92233",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 105 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a3aea98ef5e1358ce0650de7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 105 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e5c8595d846311ea798b0d42",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 106 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f36cc0c6e656cc801bcc31a1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 106 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=584f49ea92e0dd826c81eccf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 107 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=724687cfe4658104d5330753",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 107 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=daa59dd5e6d62821ed68f924",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 108 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=004a6f14bde17b574bb476f8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 108 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e2867fbcf8332832a67140ab",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 109 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=274d4da7dcf1fb4472a700df",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 109 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bcf6842fcd03b75662fa9792",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 110 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=24d5eb61447fc7355cd1c577",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 110 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=900ca8f0ceda26bf972f70f1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 111 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a7eeae5d5c9cc9a80cc3b6e7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 111 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b21b6666b144bb6d20805818",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 112 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0d4be08678625f9f862e09ba",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 112 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=9aeb9821da72e02338d48cab",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 113 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e5f8b45f1f64a038ebf79baf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 113 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6ab73ceb4132c161cdba26ab",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 114 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=94fb916f1a884c5dfa77bb09",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 114 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8e5fdcbd5d91d75004727a97",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 115 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8017ff88b9247bb0350d8fd1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 115 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dbc2dcf016fd07a5191b49ac",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 116 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0164cb70f4c5a4b03f09cd7d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 116 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1460482df8424760703e212a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 117 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=937af0cd8df1dcf8db8569c5",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 117 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5474cdda748a5731059ed406",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 118 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1d7176f9c974e69fc91c69a0",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 118 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=017767bdbcfc1d1fdb4933d1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 119 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=be35556c7b6c5035ee64f811",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 119 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5275c897bb337a767940fbfa",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 120 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=75d3f7ba6b47cb45e8048eea",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 120 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1e529de1bd4d0e6f01c9addf",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 121 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f74e7a05609b047947681e5d",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 121 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=2511baa2131eefd8edb5e26e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 122 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a23d35a062444147b232da0c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 122 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cc8e0ff93c5ce92105b01bb2",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 123 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=644aca6b78bd3c94788b30d7",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 123 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e0da195c0d0ee23ee1c4285c",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 124 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f22b24171a54247db57adabc",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 124 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7168db1f73ba1e57167fae73",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 125 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=675032f9ea7b193a058fec86",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 125 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8e765510e7b35b9a5bb22f69",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 126 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5cecb56987a9e3338b6fc21e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 126 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=de397987c7a6d7a06d3b698b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 127 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a2165abef90579f5b5c5d29f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 127 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=956ba8f83eae471360afec51",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 128 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=65db91c08831b47571e81d04",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 128 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6021df88a127205c04bc5033",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 129 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=8c61e8af3fe33690bafd52f9",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 129 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dfda8b264b365cc649624e1b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 130 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=370310f5108640f1b9d6ec5f",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 130 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=80992b220978a7f169c574f3",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 131 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=b7218f9ee75712428e7ffd79",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 131 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=3e20138ce9a1f5331f244c51",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 132 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=da35a97d1bcf435cabcbc2f4",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 132 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=865c7fb23aa218f39da76cbd",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 133 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=24edf487d2ca3c3e5ad2bb12",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 133 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=5db548f0fb11ae808e6eab26",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 134 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=a5c0910e3cd800956aedef02",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 134 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=e587a486c2d1aee414e89e3e",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 135 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=17f5d3c51a9a88c3c2c43765",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 135 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=37198690cbe5c1e84c7667e1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 136 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=0127ef4a334223b60025233a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 136 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=f33abafd04015b2c17d9e042",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 137 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=dc7a1e66f6a1f31d00fe5596",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 137 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=7cdb1996f9c18460dbbc6e97",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 138 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ae52a2d5b4878a1e19a1f06b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 138 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=24dc1b7113b343f9dad25476",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 139 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=ee4835ccaeaeb8d1ed9f5706",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 139 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=134d76e8f08cb026e59eb44b",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 140 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=c3e9926eb09fd33732bdeba8",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 140 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bcda3fafae4a6af2c86ef787",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 141 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=cc8fce8db3685a63a65bc707",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 141 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=148da8892dc535b60b171d25",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 142 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=48e7811ca5bbcd962bd05758",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 142 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=1a6f39a468b11bc6290b05d1",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 143 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=6d44c212934614f9f60df20a",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 143 (dub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=af935fb95efa05afac417010",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 144 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=d5ab7879ba78be5fa5981461",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 145 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bcca1e925ce7ca9ad6119207",
+          "referer": "https://www.anime108.com"
+        },
+        {
+          "name": "ตอนที่ 146 (sub)",
+          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
+          "url": "https://main.108player.com/index_th.php?id=bcd358ea8c86b6e9a2b17e00",
+          "referer": "https://www.anime108.com"
+        }
+      ]
+    },
     {
       "name": "Da Zhu Zai Nian Fan 2 (The Great Ruler 2) ศึกจักรพรรดิ์สวรรค์ ภาค 2",
       "image": "https://www.anime108.com/wp-content/uploads/2026/01/Da-Zhu-Zai-2-187x269.jpg",
@@ -1914,1776 +3690,6 @@
           "name": "ตอนที่ 1 (dub)",
           "image": "https://www.anime108.com/wp-content/uploads/2026/05/Blue-Thermal-187x269.jpg",
           "url": "https://main.108player.com/index_th.php?id=d99fbeb2a49ce4ee15d581df",
-          "referer": "https://www.anime108.com"
-        }
-      ]
-    },
-    {
-      "name": "Douluo Dalu II – Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน สำนักถังเลิศภพจบแดน ภาค 2",
-      "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 152 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2c3e47237602d53c3bb51e30",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 151 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2607ed4a766f4fa55805cd82",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 150 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0815c2af0202d1d14d07cf4c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 149 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bc0a9d76818637b2a3fab2dc",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 148 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ec4e5d3e80372f0a717a6860",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 147 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c4f94eebf3b1e3871dffba2b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a5e91f6dd85cc33a564e9295",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 1 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=495c2de9af319cb3856a4dda",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=57babe2d3495f314c27f7a3e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 2 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c136e47d87682c81dbeeed30",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=65a45c9a42e8b9fd44689250",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 3 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1370d0cee792c3ba665903f6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=84d5cbf1b9c1e6fd7282b604",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 4 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=57308f60df017908eb841e72",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5c3182b575d9604c72709f71",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 5 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=038494809d68db8fa1a5f264",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a4b28f98134d930abb06af6f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 6 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f273bbb2153f4f8dbecbc369",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 7 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=809dba153f5f89c611ae7180",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 7 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=790adeebf2f746f976993f07",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 8 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=933256e3a907878c7bc0ce4a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 8 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d2a7d2ca3eaf2d4119e9d377",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 9 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0f4d52d7b3179be4d1c1c72f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 9 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4bfc4c9768aef8ed64739516",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 10 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fa488a30c4292bbde2791978",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 10 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3c36641dc653beaeeab13434",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 11 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2feb9a3275841da2ac636e12",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 11 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2cdb33813d85b004cff763cb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 12 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ae1ef2dba056a7c179749731",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 12 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b94be58c896a2634d49b567b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 13 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3bdd392deead1839bb5d9d8a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 13 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fff7e74ce9a366329db697b6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 14 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=301dacc5af51048eeb75954b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 14 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=03102344c3914fc2f6418528",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 15 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cfe85c32d512c8df82d0568e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 15 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3b898b8112faf2d4c1d31d18",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 16 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6b19daf2515076bc97532909",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 16 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cfe5736daf3b90666b5d6258",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 17 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8d0f0ca4d5f7c272a4480713",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 17 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fb6bc312d948cede2cd9d0f9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 18 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dc202af3b4cf8521445dcbfe",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 18 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=37e7a97f5eb613ea7f6e1f20",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 19 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1b2cba1c66a773887fe103f3",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 19 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bf4ad602577fe9e30a2b587f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 20 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=82ca20dbc5a7cc0b37afa8d1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 20 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0681859e9c709905c3938226",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 21 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2b40389d01d57a162c9d4261",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 21 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9b49e8220285cddfeef3a2d8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 22 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f5291bac3250e91dd42424f6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 22 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2ead37407e1b1387835d70be",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 23 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fb5ccc71caaca14a5c25a958",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 23 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=08187f752050572f443ec6d9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 24 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2482ce278ed7f7447f3a72e0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 24 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=90db241a0b127fe5fd3c01d2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 25 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=39a06e7f736c25199d51279f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 25 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f14534473ed941031b8d9420",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 26 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6d2c658cb1df48fd5db33272",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 26 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2cec1e0a7e2e0a96fcc3566e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 27 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=88bda0aaa583519bc04c88ee",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 27 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d6ba908584883bca7fca86e6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 28 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=75edebcbb7dc490977607d98",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 28 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9fb188775a5ba81980aa81e9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 29 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ea073973ba52664714982378",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 29 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f4716d959454ffb0eab1f735",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 30 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a5e9397e0d26d0da6f499177",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 30 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6e5ff8ae5ee8dc808267bba1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 31 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6aff688f44b9863154c89d07",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 31 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=00fc4840a7c5554656745077",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 32 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d64c7f8f3682ef9b44c8b3c1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 32 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f80ca72db87aa443e8e5821f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 33 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=53c4b252712b3f288bda839a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 33 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=20807d65ba2e01a04f161818",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 34 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5fc27fc603ef45c0f1a99849",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 34 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=4cae9f68767d29c62028d714",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 35 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f620687635db5b634797df17",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 35 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1b46eb637690234a80fbeadb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 36 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6e753d0b5e29e2f5abe80271",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 36 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6ab4199d2a40767439ada98b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 37 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=627d9e15e939139c00618dbf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 37 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=45adce19666d2cf846537454",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 38 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7e2d2fe2b93f1ae41d8b0711",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 38 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=71f26b8ff307f6296d993874",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 39 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cfd5abac1e2c64850d534fe3",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 39 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f4ff40215c269e0b3311aa10",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 40 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bcfe86d30aab9b9dc014968e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 40 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=564066ed692460693ce2eac6",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 41 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=981508c8c614317b00d8e84a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 41 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=20db57b3f120715b7bc77cee",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 42 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e5490a7661c2ac4cadfb1a24",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 42 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cfcc7af678fbad451847b931",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 43 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=13e25317cb0d5a5552688195",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 43 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b0082b987f81a07d22b370af",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 44 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7298716ce2905ba3af5c6985",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 44 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c6bc615f3410ccbaaef1316b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 45 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c0e93411636fe03cd1752b25",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 45 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=aca44c4c7e1afdbef2627c81",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 46 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ae7ac445e0b5181f9c141030",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 46 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=63a75655af5a96dca36d8498",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 47 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d0c17b605287f4df4cb7ff87",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 47 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=52b8fd6575223fcc30b1a20e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 48 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6b683d27ba6180f742106e93",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 48 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=59deff7e3aff168ccdc8394b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 49 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=17b886aa4ae2f8f88291a629",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 49 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=185e9679ffc7ba95a244bb4f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 50 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a58cf8bca67679bee1135a59",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 50 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=40dac575755117e7b68374e3",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 51 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=aa24e135f499a5b0f3bfcf26",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 51 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f905776c798d72ee869ffaa4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 52 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d89269e2211f09d85e32855c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 52 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cf3816eeb769bcded55a1c69",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 53 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ab604ccf1611f0473f7df615",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 53 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=03a3e6ab2d420c2c8b53168c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 54 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=adeff9367b46fb864c9f81cb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 54 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7fc4988be1e3a93b5058baf0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 55 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=23d0e8f75794c8aef9188a13",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 55 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1550c5a038589e809d6a3e37",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 56 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1d64029f0f7ef5ee21a3dc98",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 56 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=be9e72e9c269282e56c64eff",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 57 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e5c4f64db457776ddd50fb57",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 57 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=67d5e6ecee8403006b7b3b19",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 58 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7313ae0e763e453bd5a2e878",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 58 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9977f967a710a609a25a8eb9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 59 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=755f7825c248dc679617707e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 59 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5aca8994ca82f2f3e3d14432",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 60 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3366f1c98b88ec09dbb7a265",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 60 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9571be869baaf6f52c577a4d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 61 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fbed7fdc46822fcbccc08039",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 61 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3376752b8c3b3c35779a1706",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 62 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=26a70d49ffc600b3137d63c1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 62 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2dff2502ef705b3cd80371b1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 63 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e551e8469338ae3c2377efc0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 63 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=31e37466b7ca9c4bc5a340d4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 64 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=aba7432b3e8e88dbccf0ab84",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 64 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8f5519030f291a8b5e751832",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 65 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7c1f3c3b297a9bee92175e1e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 65 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6ee4d0b5b30fe567760d96d2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 66 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cc49ae9fd9b5994ead8ea713",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 66 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d6ee4af7d45b7f6016f98dfd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 67 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8358e40ddc37092e4698c7a1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 67 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6161de1324533267847c002a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 68 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=48c11428bda1fb99303c9e71",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 68 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=06f02be6b6f14ed170c5c107",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 69 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f66db34e6d57fbe6930b87b2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 69 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a48335380fdbf77a1b141e3f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 70 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8a0a0a4ace69cde741f0cfd0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 70 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=769c1422f590b7a6fbcb13cd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 71 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f4bb31d546b909111aa17bf8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 71 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d2667da74375274bf4c5da83",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 72 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=87a209230524fd9b46c04ab5",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 72 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d2d00823f68c802260d52d9e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 73 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3e8aac6c2044785c08e05050",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 73 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9e2dd8d5436e822f89e2db98",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 74 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ac56fb3986642f4011826589",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 74 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b4c083c5e4b9811da441d57d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 75 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cc49dc94679be59d368aba42",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 75 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=12644cfc301db9155a10cb43",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 76 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f84d2d9e7c522c54107ddc0e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 76 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2cd05bd570dd75e0b6f3a618",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 77 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=907628629e4d2d85c0598115",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 77 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=260d151ed74c446605f64c3d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 78 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cdc1fab22dd707a3e31fa34c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 78 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fe7b520fd7876fde77105378",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 79 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=71a3f177e3c2b14578a39283",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 79 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3d241373c859dc78795c3bed",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 80 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=725c8d55dee1d6ba3b4df022",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 80 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d681c779605b0f53a019cc77",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 81 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d0d9c5703491056dc95f53cb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 81 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9816702c433eab73d17195d4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 82 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=fa3095f9f42badcfeee284fe",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 82 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a35fe8c3cea161a4a17f446f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 83 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f6f02186cc6527d37039f467",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 83 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=adb8923d1b5c26e1b842e3d7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 84 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9dfa0849b3243385a2b5fe50",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 84 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=78522e98e5149711e4d9898b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 85 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=be93799d5c95407c85b01ae8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 85 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d773d45978429bc5a9a030c1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 86 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=de234ee39ee45cafd806eee8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 86 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c4a76987b421c4466d346501",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 87 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=edb6fa7813b04bf454c05642",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 87 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7744f665e1253045a9ae7183",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 88 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b864f51f77c4bf2fb1731d7a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 88 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2dbc55f58b244e24a31a42f8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 89 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a074f0848a76bc460f52f81d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 89 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2d0078823de2cdf2148578e0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 90 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5d32194fa5738ceb75f29bf2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 90 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=72796026c47f9c46256f5a0b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 91 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6e0ebb19c0c7ae7975b7432a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 91 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dfe9e449e6aeeaf7d255d133",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 92 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a53aee97709df480a33947e4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 92 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b15e0f3230aec722d179b50e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 93 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d158314accd3ac98c273f823",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 93 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d240bea938afb534b9303c0e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 94 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9f5ce9716ba56a60d07b7a23",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 94 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=aab56613dc5a1ded633879d5",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 95 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5cda42b8ff6a083696dfdd12",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 95 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a72730db463d66addce3deb1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 96 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2394ef4b247cdda76fb069cb",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 97 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=782a8fb546d2774c994f9dee",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 97 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=42f38a83d16567beac4bfd10",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 98 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c9b6b057d9024c23b18bf958",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 98 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=112b961671c38987b6ff3e81",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 99 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=48c08e06a83167b11d3b7c5c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 99 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=be2520444e45b84ba1cb702b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 100 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cb1fd80c2450d1e9d7c58e91",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 100 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1441432c1e92eab5e5e2eeec",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 101 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1ce2e4702161dc0dc418d907",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 101 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=852b45a03ef49745d442ff6c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 102 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5209ae0807f13d6058114a5d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 102 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=584ceea2f4626a0c1522d197",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 103 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f224f90ff8ca5745a61cd7ce",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 103 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ae7fa0d0a45305bc2c35b21b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 104 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=454420ae37521f9d59b5c098",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 104 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=97a094af2ca5f2e21ab92233",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 105 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a3aea98ef5e1358ce0650de7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 105 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e5c8595d846311ea798b0d42",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 106 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f36cc0c6e656cc801bcc31a1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 106 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=584f49ea92e0dd826c81eccf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 107 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=724687cfe4658104d5330753",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 107 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=daa59dd5e6d62821ed68f924",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 108 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=004a6f14bde17b574bb476f8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 108 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e2867fbcf8332832a67140ab",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 109 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=274d4da7dcf1fb4472a700df",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 109 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bcf6842fcd03b75662fa9792",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 110 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=24d5eb61447fc7355cd1c577",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 110 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=900ca8f0ceda26bf972f70f1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 111 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a7eeae5d5c9cc9a80cc3b6e7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 111 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b21b6666b144bb6d20805818",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 112 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0d4be08678625f9f862e09ba",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 112 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=9aeb9821da72e02338d48cab",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 113 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e5f8b45f1f64a038ebf79baf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 113 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6ab73ceb4132c161cdba26ab",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 114 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=94fb916f1a884c5dfa77bb09",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 114 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8e5fdcbd5d91d75004727a97",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 115 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8017ff88b9247bb0350d8fd1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 115 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dbc2dcf016fd07a5191b49ac",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 116 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0164cb70f4c5a4b03f09cd7d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 116 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1460482df8424760703e212a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 117 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=937af0cd8df1dcf8db8569c5",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 117 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5474cdda748a5731059ed406",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 118 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1d7176f9c974e69fc91c69a0",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 118 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=017767bdbcfc1d1fdb4933d1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 119 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=be35556c7b6c5035ee64f811",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 119 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5275c897bb337a767940fbfa",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 120 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=75d3f7ba6b47cb45e8048eea",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 120 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1e529de1bd4d0e6f01c9addf",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 121 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f74e7a05609b047947681e5d",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 121 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=2511baa2131eefd8edb5e26e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 122 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a23d35a062444147b232da0c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 122 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cc8e0ff93c5ce92105b01bb2",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 123 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=644aca6b78bd3c94788b30d7",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 123 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e0da195c0d0ee23ee1c4285c",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 124 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f22b24171a54247db57adabc",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 124 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7168db1f73ba1e57167fae73",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 125 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=675032f9ea7b193a058fec86",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 125 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8e765510e7b35b9a5bb22f69",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 126 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5cecb56987a9e3338b6fc21e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 126 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=de397987c7a6d7a06d3b698b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 127 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a2165abef90579f5b5c5d29f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 127 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=956ba8f83eae471360afec51",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 128 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=65db91c08831b47571e81d04",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 128 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6021df88a127205c04bc5033",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 129 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=8c61e8af3fe33690bafd52f9",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 129 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dfda8b264b365cc649624e1b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 130 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=370310f5108640f1b9d6ec5f",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 130 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=80992b220978a7f169c574f3",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 131 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=b7218f9ee75712428e7ffd79",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 131 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=3e20138ce9a1f5331f244c51",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 132 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=da35a97d1bcf435cabcbc2f4",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 132 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=865c7fb23aa218f39da76cbd",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 133 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=24edf487d2ca3c3e5ad2bb12",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 133 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=5db548f0fb11ae808e6eab26",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 134 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=a5c0910e3cd800956aedef02",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 134 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=e587a486c2d1aee414e89e3e",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 135 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=17f5d3c51a9a88c3c2c43765",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 135 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=37198690cbe5c1e84c7667e1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 136 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=0127ef4a334223b60025233a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 136 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=f33abafd04015b2c17d9e042",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 137 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=dc7a1e66f6a1f31d00fe5596",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 137 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=7cdb1996f9c18460dbbc6e97",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 138 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ae52a2d5b4878a1e19a1f06b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 138 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=24dc1b7113b343f9dad25476",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 139 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=ee4835ccaeaeb8d1ed9f5706",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 139 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=134d76e8f08cb026e59eb44b",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 140 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=c3e9926eb09fd33732bdeba8",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 140 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bcda3fafae4a6af2c86ef787",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 141 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=cc8fce8db3685a63a65bc707",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 141 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=148da8892dc535b60b171d25",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 142 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=48e7811ca5bbcd962bd05758",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 142 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=1a6f39a468b11bc6290b05d1",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 143 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=6d44c212934614f9f60df20a",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 143 (dub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=af935fb95efa05afac417010",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 144 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=d5ab7879ba78be5fa5981461",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 145 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bcca1e925ce7ca9ad6119207",
-          "referer": "https://www.anime108.com"
-        },
-        {
-          "name": "ตอนที่ 146 (sub)",
-          "image": "https://www.anime108.com/wp-content/uploads/2024/05/Douluo-Dalu-II-187x269.jpg",
-          "url": "https://main.108player.com/index_th.php?id=bcd358ea8c86b6e9a2b17e00",
           "referer": "https://www.anime108.com"
         }
       ]
